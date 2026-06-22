@@ -1,6 +1,11 @@
 # 20260622_researchrepo
 
-A research project. All research findings, notes, and reasoning are logged to markdown as work progresses.
+Research project on **DARPA Biological Technologies Office (BTO)** and **BARDA** programmes, and the grants/contracts awarded under the pandemic-relevant ones. All findings, notes, and reasoning are logged to markdown as work progresses.
+
+## Deliverables
+
+- [`allprogs.md`](allprogs.md) — complete catalogue of every DARPA BTO programme (~68) and every major BARDA programme/division, each flagged for pandemic / infectious-disease relevance.
+- [`allgrants.md`](allgrants.md) — inventory of grants, contracts, and awards made under the pandemic-relevant programmes (DARPA P3, PREEMPT, NOW, DIGET, ECHO, etc.; BARDA COVID/OWS, influenza, Ebola/Marburg/Zika/smallpox, manufacturing, Project NextGen, RRPV, BioMaP).
 
 ## Structure
 
@@ -10,7 +15,7 @@ A research project. All research findings, notes, and reasoning are logged to ma
 
 ## Status
 
-🟡 Scaffolding set up — awaiting research topic.
+🟢 Phase 1 (programmes) and Phase 2 (grants/contracts) complete.
 
 ## Workflow
 
