@@ -96,3 +96,19 @@ Ran 9 parallel web-enabled subagents. Files written:
 
 **Recurring caveat across all:** federal/foundation databases resisted automated fetching; most figures are press-release "ceiling"/"up to" values, flagged per file. Awardee lists are representative, not exhaustive (esp. NIH, CDC, Gates).
 **Next:** Wave 2 — DHS, USAID, USDA, State, DOE/NNSA, NSF, intel (IARPA/In-Q-Tel), ARPA-H + foundations (Wellcome Leap, Open Phil, Rockefeller, CZI, Novo Nordisk, Skoll, other funders).
+
+### Wave 2 (mostly complete, 2026-06-22)
+Ran 8 agency + 7 foundation agents over two parallel batches. **Successful & written:** agencies — DHS, USAID, State, DOE, NSF, intel (IARPA/In-Q-Tel), ARPA-H; foundations — Wellcome Leap, Rockefeller, Novo Nordisk, Skoll, other-funders (HHMI, Bloomberg, Trinity Challenge, Schmidt, Flu Lab, Resolve to Save Lives, Audacious/SENTINEL, McGovern, ELMA). **Failed on rate/session limits — to redo:** USDA, Open Philanthropy, CZI.
+
+Notable catches: USAID's pandemic apparatus (PREDICT/STOP Spillover) was dismantled in 2025 (folded into State); DHS BD21 biodetection program discontinued Sept 2024; ARPA-H is broad (relevant: APECx broadly-protective vaccines, BREATHE indoor airborne-pathogen sensors, AMR trio DARTS/PROTECT/TARGET); Wellcome Leap R3 = "RNA Readiness + Response" (not AMR — that's Focused Antibiotics); Rockefeller PPI rose (up to $150M, 2021) and was wound down ~Sept 2022; corrections flagged (Africa PGI $100M is Gates/CDC not Rockefeller; no direct NNF→CEPI grant; Schmidt→Brown Pandemic Center unverified — likely the Broad Schmidt Center).
+
+---
+
+## 2026-06-22 — User request #6: PPE / air / UV / glycols + CSV database
+
+**User request:** (1) Extend coverage to technologies for **respiratory PPE, air purifiers/filtration, germicidal UV (UVGI/far-UVC), and glycol-vapor air disinfection** — i.e. airborne-transmission mitigation funding across the agencies and foundations. (2) Build a **database (CSV)** consolidating the programmes and grants from all the MD files, for easy viewing. (Also in `REQUESTS.md` #6.)
+
+**Plan:**
+- New `themes/` folder with `air-ppe-uv-glycols.md` — a cross-cutting thematic file (covers NIOSH/CDC respirator certification, BARDA/ASPR PPE + DPA Title III respirators, ARPA-H BREATHE, Open Philanthropy far-UVC, CDC/EPA/school air-quality, DARPA air sensors, glycol-vapor air-disinfection research).
+- `data/` folder with CSV exports extracted from every MD file: `programs.csv` and `awards.csv` (funder, type, programme, recipient, amount, amount_basis, year, theme, purpose, source). Built by reading the MD files back through.
+- Finish the 3 redo agents first so the CSV is complete.

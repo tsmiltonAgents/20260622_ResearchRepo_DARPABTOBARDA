@@ -17,4 +17,7 @@
    - → Done. Repo is public; local remote updated.
 
 5. **Expand the research (long agentic loop):** think of other USG agencies that do similar work → find their programmes → then their grantees. **In parallel,** do the same for foundations (CEPI, Wellcome, Gates, etc.). Add more folder structure to enable this. Keep these requests logged.
-   - → In progress. New `agencies/` and `foundations/` directories; one markdown file per entity (programmes + grantees). See `RESEARCH_LOG.md` for waves and `agencies/README.md` / `foundations/README.md` for the registries.
+   - → In progress. New `agencies/` and `foundations/` directories; one markdown file per entity (programmes + grantees). See `RESEARCH_LOG.md` for waves and `agencies/README.md` / `foundations/README.md` for the registries. Wave 1 + most of Wave 2 done; USDA, Open Philanthropy, CZI being redone (failed on rate limits).
+
+6. **Extend coverage** to airborne-mitigation technologies — **respiratory PPE, air purifiers/filtration, germicidal UV (UVGI/far-UVC), and glycol-vapor air disinfection** — across the agencies/funders. And **build a CSV database** consolidating the programmes and grants from all the MD files for easy viewing.
+   - → In progress. New `themes/air-ppe-uv-glycols.md` and `data/programs.csv` + `data/awards.csv`.
