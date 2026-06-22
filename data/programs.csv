@@ -1,0 +1,303 @@
+funder,funder_type,program,acronym_expansion,theme,pandemic_relevance,years,status,source_file
+DARPA BTO,US DoD,ADEPT,Autonomous Diagnostics to Enable Prevention and Therapeutics,diagnostics,YES,2011-2016,Complete,allprogs.md
+DARPA BTO,US DoD,P3,Pandemic Prevention Platform,therapeutics-antivirals,YES,2017-2021,Complete,allprogs.md
+DARPA BTO,US DoD,PREEMPT,PReventing EMerging Pathogenic Threats,biosurveillance-detection,YES,2018-2022,Complete,allprogs.md
+DARPA BTO,US DoD,Prophecy,Prophecy (Pathogen Defeat),therapeutics-antivirals,YES,~2010-2014,Complete,allprogs.md
+DARPA BTO,US DoD,INTERCEPT,INTERfering and Co-Evolving Prevention and Therapy,therapeutics-antivirals,YES,2016-2020,Complete,allprogs.md
+DARPA BTO,US DoD,THoR,Technologies for Host Resilience,therapeutics-antivirals,YES,2015-2019,Complete,allprogs.md
+DARPA BTO,US DoD,PREPARE,PReemptive Expression of Protective Alleles and Response Elements,therapeutics-antivirals,YES,2018-2022,Complete,allprogs.md
+DARPA BTO,US DoD,DIGET,Detect It with Gene Editing Technologies,diagnostics,YES,2019-2024,Complete,allprogs.md
+DARPA BTO,US DoD,NOW,Nucleic acids On-demand Worldwide,MCM-manufacturing,YES,2021-2026,Complete,allprogs.md
+DARPA BTO,US DoD,ECHO,Epigenetic CHaracterization and Observation,diagnostics,PARTIAL,2018-2023,Complete,allprogs.md
+DARPA BTO,US DoD,Friend or Foe,(no acronym),biosurveillance-detection,YES,2018-~2022,Complete,allprogs.md
+DARPA BTO,US DoD,RTA,Rapid Threat Assessment,biosecurity-policy,PARTIAL,2013-2018,Complete,allprogs.md
+DARPA BTO,US DoD,HEALR,Harnessing Enzymatic Activity for Lifesaving Remedies,therapeutics-antivirals,YES,2020-present,Active,allprogs.md
+DARPA BTO,US DoD,AIM,Assessing Immune Memory,vaccines,YES,2023-~2026,Complete,allprogs.md
+DARPA BTO,US DoD,Panacea,(no acronym),therapeutics-antivirals,PARTIAL,~2018-2022,Complete,allprogs.md
+DARPA BTO,US DoD,PPB,Personalized Protective Biosystem,PPE-air-UV,PARTIAL,2019-2023,Complete,allprogs.md
+DARPA BTO,US DoD,Biostasis,(no acronym),therapeutics-antivirals,PARTIAL,2018-~2023,Complete,allprogs.md
+DARPA BTO,US DoD,DLT,Dialysis-Like Therapeutics,therapeutics-antivirals,PARTIAL,2012-~2016,Complete,allprogs.md
+DARPA BTO,US DoD,Battlefield Medicine (PoD / Bio-MOD),Pharmacy on Demand / Biologically-derived Medicines on Demand,MCM-manufacturing,PARTIAL,2012-2016,Complete,allprogs.md
+DARPA BTO,US DoD,Focused Pharma,(no acronym),therapeutics-antivirals,NO,~2018-2022,Complete,allprogs.md
+DARPA BTO,US DoD,MPS,Microphysiological Systems,basic-research,PARTIAL,2011-~2017,Complete,allprogs.md
+DARPA BTO,US DoD,IVN,In Vivo Nanoplatforms,biosurveillance-detection,PARTIAL,2012-~2017,Complete,allprogs.md
+DARPA BTO,US DoD,Prometheus,(no expansion published),biosurveillance-detection,YES,~2010s,Complete,allprogs.md
+DARPA BTO,US DoD,Bio-Attribution Challenge,(no acronym),biosecurity-policy,YES,2025-present,Active,allprogs.md
+DARPA BTO,US DoD,Living Foundries (ATCG; 1000 Molecules),Advanced Tools and Capabilities for Generalizable Platforms,synbio,NO,2010-2021,Complete,allprogs.md
+DARPA BTO,US DoD,BRICS,Biological Robustness In Complex Settings,synbio,PARTIAL,2014-2018,Complete,allprogs.md
+DARPA BTO,US DoD,ELM,Engineered Living Materials,synbio,NO,2016-~2020,Complete,allprogs.md
+DARPA BTO,US DoD,Safe Genes,(no acronym),synbio,PARTIAL,2016-2021,Complete,allprogs.md
+DARPA BTO,US DoD,B-SAFE,Broad-Spectrum Antagonists For Editors,synbio,PARTIAL,2024-present,Active,allprogs.md
+DARPA BTO,US DoD,Biological Control,(no acronym),synbio,PARTIAL,~2016-2020,Complete,allprogs.md
+DARPA BTO,US DoD,B-SURE,"Biomanufacturing: Survival, Utility, and Reliability beyond Earth",synbio,NO,2022-present,Active,allprogs.md
+DARPA BTO,US DoD,EMBER,Environmental Microbes as a BioEngineering Resource,synbio,NO,2022-present,Active,allprogs.md
+DARPA BTO,US DoD,ReSource,(no acronym),synbio,NO,2019-~2025,Active/late,allprogs.md
+DARPA BTO,US DoD,Cornucopia,(no acronym),synbio,NO,2021-~2025,Active,allprogs.md
+DARPA BTO,US DoD,BLUE,BioLogical Undersea Energy,synbio,NO,2024-present,Active,allprogs.md
+DARPA BTO,US DoD,Switch,(no acronym),synbio,NO,2024-present,Active,allprogs.md
+DARPA BTO,US DoD,Fleetwood,(no acronym),synbio,NO,~2024-present,Active,allprogs.md
+DARPA BTO,US DoD,Smart-RBC,Smart Red Blood Cells,synbio,NO,~2025-present,Active,allprogs.md
+DARPA BTO,US DoD,GO,Generative Optogenetics,synbio,NO,2025-present,Active (new),allprogs.md
+DARPA BTO,US DoD,O-Circuit,Organoid Cytomorphic Intelligence Resulting from Convergent Understanding and Information Transfer,synbio,NO,2026-,Solicitation,allprogs.md
+DARPA BTO,US DoD,RadioBio,(radio + biology),basic-research,NO,2017-~2020,Complete,allprogs.md
+DARPA BTO,US DoD,RAM,Restoring Active Memory,neurotech,NO,2013-~2018,Complete,allprogs.md
+DARPA BTO,US DoD,RAM Replay,(sub-effort of RAM),neurotech,NO,2015-~2017,Complete,allprogs.md
+DARPA BTO,US DoD,NESD,Neural Engineering System Design,neurotech,NO,2016-2020,Complete,allprogs.md
+DARPA BTO,US DoD,N3,Next-Generation Nonsurgical Neurotechnology,neurotech,NO,2018-~2024,Complete,allprogs.md
+DARPA BTO,US DoD,HAPTIX,Hand Proprioception and Touch Interfaces,neurotech,NO,2015-~2019,Complete,allprogs.md
+DARPA BTO,US DoD,TNT,Targeted Neuroplasticity Training,neurotech,NO,2016-2020,Complete,allprogs.md
+DARPA BTO,US DoD,ElectRx,Electrical Prescriptions,neurotech,PARTIAL,2014-~2019,Complete,allprogs.md
+DARPA BTO,US DoD,SUBNETS,Systems-Based Neurotechnology for Emerging Therapies,neurotech,NO,2013-~2018,Complete,allprogs.md
+DARPA BTO,US DoD,RE-NET (incl. RPI),Reliable Neural-Interface Technology (Reliable Peripheral Interfaces),neurotech,NO,2010-~2016,Complete,allprogs.md
+DARPA BTO,US DoD,Neuro-FAST,"Neuro Function, Activity, Structure, and Technology",neurotech,NO,2013-~2018,Complete,allprogs.md
+DARPA BTO,US DoD,INI,Intelligent Neural Interfaces,neurotech,NO,2019-~2022,Complete,allprogs.md
+DARPA BTO,US DoD,BG+,Bridging the Gap Plus,neurotech,NO,2020-~2025,Complete,allprogs.md
+DARPA BTO,US DoD,BETR,Bioelectronics for Tissue Regeneration,neurotech,NO,2019-present,Active,allprogs.md
+DARPA BTO,US DoD,Revolutionizing Prosthetics,(no acronym),neurotech,NO,2006-~2018,Complete,allprogs.md
+DARPA BTO,US DoD,INSPIRE,Investigating how Neurological Systems Process Information in Reality,neurotech,NO,2025-present,Active,allprogs.md
+DARPA BTO,US DoD,MBA,Measuring Biological Aptitude,neurotech,NO,2019-present,Active,allprogs.md
+DARPA BTO,US DoD,Enabling Stress Resistance,(no acronym),neurotech,NO,~2015-2019,Complete,allprogs.md
+DARPA BTO,US DoD,APT,Advanced Plant Technologies,environmental-ag,PARTIAL,2017-~2022,Complete,allprogs.md
+DARPA BTO,US DoD,Insect Allies,(a.k.a. HEGAA),environmental-ag,PARTIAL,2016-2021,Complete,allprogs.md
+DARPA BTO,US DoD,ReVector,(no acronym),environmental-ag,YES,2019-~2023,Complete,allprogs.md
+DARPA BTO,US DoD,PALS,Persistent Aquatic Living Sensors,environmental-ag,NO,2018-2021,Complete,allprogs.md
+DARPA BTO,US DoD,BioReporters for Subterranean Surveillance,(no acronym),environmental-ag,PARTIAL,2019-~2021,Complete,allprogs.md
+DARPA BTO,US DoD,Reefense,(reef + defense),environmental-ag,PARTIAL,2022-~2026,Active,allprogs.md
+DARPA BTO,US DoD,Tellus,(no acronym),environmental-ag,NO/PARTIAL,2023-present,Active,allprogs.md
+DARPA BTO,US DoD,GUARDIAN,Genetic Utilization for Advanced Regulation and Defense of Indigenous and Native Species,environmental-ag,PARTIAL,2026-,Active (launching),allprogs.md
+DARPA BTO,US DoD,Ag x BTO,Agricultural Defense initiative,environmental-ag,PARTIAL,2025-present,Active,allprogs.md
+DARPA BTO,US DoD,AMPHORA,Assured Microbial Preservation in Harsh Or Remote Areas,biosurveillance-detection,YES,recent,per BTO list,allprogs.md
+BARDA,US HHS,BARDA (parent),Biomedical Advanced Research and Development Authority,MCM-manufacturing,PARTIAL,2006 (active),active,allprogs.md
+BARDA,US HHS,CBRN Division,"Chemical, Biological, Radiological & Nuclear MCMs",MCM-manufacturing,PARTIAL,~2007 (active),active,allprogs.md
+BARDA,US HHS,CBRN Division — Antimicrobials,(none),AMR,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,CBRN Division — Antivirals & Antitoxins,(none),therapeutics-antivirals,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,"CBRN Division — Vaccines (anthrax, smallpox, VHF)",(none),vaccines,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,CBRN Division — Chemical MCMs,(none),other,NO,active,active,allprogs.md
+BARDA,US HHS,CBRN Division — Radiological/Nuclear MCMs,(none),other,NO,active,active,allprogs.md
+BARDA,US HHS,CBRN Division — Burn and Blast MCMs,(none),other,NO,active,active,allprogs.md
+BARDA,US HHS,Influenza & Emerging Infectious Diseases,IEID / IEIDD,vaccines,YES,~2007 (active),active,allprogs.md
+BARDA,US HHS,IEID — Pandemic Vaccines & Adjuvants,(none),vaccines,YES,active,active,allprogs.md
+BARDA,US HHS,IEID — Vaccine Development,(none),vaccines,YES,active,active,allprogs.md
+BARDA,US HHS,IEID — Therapeutics,(none),therapeutics-antivirals,YES,active,active,allprogs.md
+BARDA,US HHS,IEID — Influenza Diagnostics & Devices,(none),diagnostics,YES,active,active,allprogs.md
+BARDA,US HHS,National Pre-pandemic Influenza Vaccine Stockpile,NPIVS,vaccines,YES,active,active,allprogs.md
+BARDA,US HHS,"Detection, Diagnostics & Devices Infrastructure",DDDI,diagnostics,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,Clinical Development Division,DCD,basic-research,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,Nonclinical Development Division,DNCD,basic-research,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,Regulatory & Quality Affairs,RQA,biosecurity-policy,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,Contract Management & Acquisition,CMA,biosecurity-policy,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,Pharmaceutical Countermeasures & Infrastructure,PCI,MCM-manufacturing,PARTIAL,active,active,allprogs.md
+BARDA,US HHS,DRIVe,"Division of Research, Innovation, and Ventures",basic-research,PARTIAL,June 2018 (active),active,allprogs.md
+BARDA,US HHS,DRIVe — ENACT,"Early Notification to Act, Control and Treat",biosurveillance-detection,YES,~2018 (active),active,allprogs.md
+BARDA,US HHS,DRIVe — Solving Sepsis,(none),therapeutics-antivirals,PARTIAL,~2018 (active),active,allprogs.md
+BARDA,US HHS,DRIVe — ReDIRECT,Repurposing drugs for chemical exposure,therapeutics-antivirals,NO,2020 (active),active,allprogs.md
+BARDA,US HHS,DRIVe — BARDA Accelerator Network,BAN,basic-research,YES,~2019 (active),active,allprogs.md
+BARDA,US HHS,BARDA Ventures,(none),basic-research,YES,2022 (active),active,allprogs.md
+BARDA,US HHS,Project BioShield,(none),MCM-manufacturing,PARTIAL,2004 (active),active,allprogs.md
+BARDA,US HHS,Centers for Innovation in Advanced Development & Manufacturing,CIADM,MCM-manufacturing,PARTIAL,2012 (legacy/active),active,allprogs.md
+BARDA,US HHS,Fill Finish Manufacturing Network,FFMN,MCM-manufacturing,YES,~2019 (active),active,allprogs.md
+BARDA,US HHS,Strategic National Stockpile (relationship),SNS,MCM-manufacturing,PARTIAL,(active),active,allprogs.md
+BARDA,US HHS,Operation Warp Speed (BARDA role),OWS,vaccines,YES,2020 (concluded),concluded,allprogs.md
+BARDA,US HHS,Antiviral Program for Pandemics,APP,therapeutics-antivirals,YES,June 2021 (active),active,allprogs.md
+BARDA,US HHS,Project NextGen,(none),vaccines,YES,April 2023 (active),active,allprogs.md
+BARDA,US HHS,Rapid Response Partnership Vehicle,RRPV,MCM-manufacturing,YES,Oct 2023 (active),active,allprogs.md
+BARDA,US HHS,BioMaP-Consortium,Biopharmaceutical Manufacturing Preparedness Consortium,MCM-manufacturing,YES,~2023 (active),active,allprogs.md
+NIH/NIAID,US HHS,Vaccine Research Center (VRC),Vaccine Research Center,vaccines,YES,est 1997 (opened 2000),intramural/ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Vaccine and Treatment Evaluation Units (VTEUs),Vaccine and Treatment Evaluation Units,vaccines,YES,est 1962; 2020 RFA ~$29M/yr for 7 yrs,ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Centers of Excellence for Influenza Research and Response (CEIRR),Centers of Excellence for Influenza Research and Response,vaccines,YES,CEIRS 2007-2021; CEIRR 2021 (7-yr; ~$24M first-yr),ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Collaborative Influenza Vaccine Innovation Centers (CIVICs),Collaborative Influenza Vaccine Innovation Centers,vaccines,YES,2019; up to ~$51M first-yr over 7 yrs,ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Centers for Research in Emerging Infectious Diseases (CREID),Centers for Research in Emerging Infectious Diseases,biosurveillance-detection,YES,Aug 2020; ~$17M first-yr; ~$82M over 5 yrs,ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Antiviral Drug Discovery (AViDD) Centers,Antiviral Drug Discovery Centers for Pathogens of Pandemic Concern,therapeutics-antivirals,YES,May 2022; ~$577M / 9 centers; 3 yrs (extendable to 5),ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Pandemic Preparedness Plan / Prototype Pathogen Approach,,basic-research,YES,Dec 2021,ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,ReVAMPP,Research and Development of Vaccines and Monoclonal Antibodies for Pandemic Preparedness,vaccines,YES,U19 awards 2024; ~$100M/yr,ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,ACTIV,Accelerating COVID-19 Therapeutic Interventions and Vaccines,therapeutics-antivirals,YES,launched Apr 2020,concluded,agencies/niaid.md
+NIH/NIAID,US HHS,ACTT,Adaptive COVID-19 Treatment Trial,therapeutics-antivirals,YES,began Feb 21 2020,concluded,agencies/niaid.md
+NIH/NIAID,US HHS,RADx,Rapid Acceleration of Diagnostics,diagnostics,YES,Apr 2020; $1.5B supplement (NIH-wide/NIBIB-led),concluded,agencies/niaid.md
+NIH/NIAID,US HHS,Moderna mRNA-1273 / VRC co-development,,vaccines,YES,2020,concluded,agencies/niaid.md
+NIH/NIAID,US HHS,Radiation and Nuclear Countermeasures Program (RNCP),Radiation and Nuclear Countermeasures Program,MCM-manufacturing,PARTIAL,launched 2005; ~$45-50M/yr (dated),ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Rocky Mountain Laboratories (RML),Rocky Mountain Laboratories,basic-research,YES,intramural BSL-2/3/4,ongoing,agencies/niaid.md
+NIH/NIAID,US HHS,Biocontainment network (RBLs/NBLs) & DURC,,biosecurity-policy,PARTIAL,post-2001; ~$1B for 12 RBLs + 2 NBLs,ongoing,agencies/niaid.md
+CDC,US HHS,Epidemiology and Laboratory Capacity (ELC) Cooperative Agreement,Epidemiology and Laboratory Capacity,biosurveillance-detection,YES,since 1995; ~$364M core (2024),ongoing,agencies/cdc.md
+CDC,US HHS,Public Health Emergency Preparedness (PHEP) Cooperative Agreement,Public Health Emergency Preparedness,biosurveillance-detection,YES,since 2002; $735M FY23-24,ongoing,agencies/cdc.md
+CDC,US HHS,Center for Forecasting and Outbreak Analytics (CFA),Center for Forecasting and Outbreak Analytics,biosurveillance-detection,YES,launched 2022; $200M ARP,ongoing,agencies/cdc.md
+CDC,US HHS,Influenza Division & surveillance,,biosurveillance-detection,YES,WHO Collaborating Center since 1956,ongoing,agencies/cdc.md
+CDC,US HHS,Laboratory Response Network (LRN),Laboratory Response Network,biosurveillance-detection,YES,since 1999,ongoing,agencies/cdc.md
+CDC,US HHS,Advanced Molecular Detection (AMD),Advanced Molecular Detection,biosurveillance-detection,YES,since 2014; ~$40M/yr,ongoing,agencies/cdc.md
+CDC,US HHS,BioSense / National Syndromic Surveillance Program (NSSP),National Syndromic Surveillance Program,biosurveillance-detection,YES,BioSense launched 2003; now NSSP,ongoing,agencies/cdc.md
+CDC,US HHS,Strategic National Stockpile (SNS) - historical,Strategic National Stockpile,MCM-manufacturing,YES,1998/1999; transferred to ASPR Oct 2018,transferred to ASPR,agencies/cdc.md
+CDC,US HHS,Federal Select Agent Program (FSAP),Federal Select Agent Program,biosecurity-policy,PARTIAL,since 2002 (regulatory; with USDA APHIS),ongoing,agencies/cdc.md
+CDC,US HHS,Emerging Infections Programs (EIP),Emerging Infections Programs,biosurveillance-detection,YES,since ~1995; 12 sites,ongoing,agencies/cdc.md
+CDC,US HHS,Global Health Security Agenda (GHSA),Global Health Security Agenda,biosurveillance-detection,YES,launched Feb 2014,ongoing,agencies/cdc.md
+CDC,US HHS,Insight Net (Outbreak Analytics & Disease Modeling Network),Insight Net,biosurveillance-detection,YES,announced Sept 2023; up to $262.5M / 5 yrs,ongoing,agencies/cdc.md
+ASPR,US HHS,PHEMCE,Public Health Emergency Medical Countermeasures Enterprise,MCM-manufacturing,YES,created 2006; reconstituted Feb 2022,ongoing,agencies/aspr.md
+ASPR,US HHS,Strategic National Stockpile (SNS),Strategic National Stockpile,MCM-manufacturing,YES,transferred to ASPR Oct 2018; FY2024 $980M,ongoing,agencies/aspr.md
+ASPR,US HHS,Project BioShield Special Reserve Fund (SRF),Project BioShield Special Reserve Fund,MCM-manufacturing,YES,Act 2004; orig $5.6B; $825M enacted FY2024,ongoing,agencies/aspr.md
+ASPR,US HHS,Hospital Preparedness Program (HPP),Hospital Preparedness Program,MCM-manufacturing,PARTIAL,~$240-250M/yr (FY2024 $240M),ongoing,agencies/aspr.md
+ASPR,US HHS,Regional Disaster Health Response System (RDHRS),Regional Disaster Health Response System,MCM-manufacturing,PARTIAL,FY2018 pilots ~$3M/yr each,ongoing,agencies/aspr.md
+ASPR,US HHS,Industrial-Base / Supply-Chain (IBMSC) + DPA Title III,Office/Center for Industrial Base Management & Supply Chain,MCM-manufacturing,YES,COVID-era; DPA Title III,ongoing,agencies/aspr.md
+ASPR,US HHS,NIIMBL,National Institute for Innovation in Manufacturing Biopharmaceuticals,MCM-manufacturing,PARTIAL,principally NIST recipient; ASPR/BARDA collaborative,ongoing,agencies/aspr.md
+DTRA,US DoD,R&D Directorate / Chemical & Biological Technologies Dept (RD-CB / J9CB),,biosecurity-policy,YES,~>$1B R&D (approx); serves as JSTO for CBDP,ongoing,agencies/dtra.md
+DTRA,US DoD,JSTO-CBD and the CBDP,Joint Science and Technology Office for Chemical and Biological Defense,MCM-manufacturing,YES,CBDP FY2024 ~$1.479B actual,ongoing,agencies/dtra.md
+DTRA,US DoD,Funding mechanisms - BAAs (HDTRA1) / OTAs / SBIR-STTR,,basic-research,PARTIAL,HDTRA1-25-S-0001 open 2024-2034; ~$500M/10yr ceiling,ongoing,agencies/dtra.md
+DTRA,US DoD,Cooperative Threat Reduction (CTR) / Biological Threat Reduction Program (BTRP),Biological Threat Reduction Program (formerly CBEP),biosurveillance-detection,YES,Nunn-Lugar 1991; BTRP FY2024 ~$218M,ongoing (declining),agencies/dtra.md
+DTRA,US DoD,Threat-agnostic countermeasures & DOMANE,Discovery of Medical Countermeasures Against Novel Entities,therapeutics-antivirals,YES,DOMANE est late 2019; SPADES/RAPTER/ONTARGET,ongoing,agencies/dtra.md
+DTRA,US DoD,Biosurveillance Ecosystem (BSVE),Biosurveillance Ecosystem,biosurveillance-detection,PARTIAL,funded by JSTO-CBD; apparently transitioned to DHS ~2021,status uncertain,agencies/dtra.md
+JPEO-CBRND,US DoD,JPM CBRN Medical / RAIDR,Joint Project Manager for CBRN Medical / Rapid Acquisition and Investigation of Drugs for Repurposing,therapeutics-antivirals,YES,,ongoing,agencies/jpeo-cbrnd.md
+JPEO-CBRND,US DoD,MCMPT (Medical Countermeasures Platform Technologies),Medical Countermeasures Platform Technologies,MCM-manufacturing,YES,>28 NSNs sponsored,ongoing,agencies/jpeo-cbrnd.md
+JPEO-CBRND,US DoD,Platform / rapid-response programmes (MCMPT/RAIDR/RAPID/VAMP/GUIDE),Vaccine Acceleration by Modular Progression (VAMP); Rapid Acquisition and Investigation of Drugs for Repurposing (RAIDR),MCM-manufacturing,YES,,ongoing,agencies/jpeo-cbrnd.md
+JPEO-CBRND,US DoD,Medical CBRN Defense Consortium (MCDC) OTA,Medical CBRN Defense Consortium,MCM-manufacturing,YES,est ~2015; ~$10B ceiling; >$7.8B awarded,ongoing,agencies/jpeo-cbrnd.md
+JPEO-CBRND,US DoD,DoD Advanced Development and Manufacturing (ADM) capability,Advanced Development and Manufacturing,MCM-manufacturing,YES,2013 awarded; opened 2017 (Alachua FL),ongoing,agencies/jpeo-cbrnd.md
+JPEO-CBRND,US DoD,COVID-19 / Operation Warp Speed contracting role,,vaccines,YES,2020; facilitated up to ~$10.8B for OWS,concluded,agencies/jpeo-cbrnd.md
+USAMRIID/DoD,US DoD,USAMRIID,U.S. Army Medical Research Institute of Infectious Diseases,basic-research,YES,est 1969; only DoD BSL-4,ongoing,agencies/dod-medical.md
+USAMRIID/DoD,US DoD,USAMRDC / MIDRP,U.S. Army Medical Research and Development Command / Military Infectious Diseases Research Program,vaccines,YES,MIDRP ~$70M/yr (dated),ongoing,agencies/dod-medical.md
+USAMRIID/DoD,US DoD,CDMRP,Congressionally Directed Medical Research Programs,basic-research,PARTIAL,since FY1992; ~$20B cumulative,ongoing,agencies/dod-medical.md
+USAMRIID/DoD,US DoD,WRAIR,Walter Reed Army Institute of Research,vaccines,YES,largest biomedical lab in DoD,ongoing,agencies/dod-medical.md
+USAMRIID/DoD,US DoD,NMRC / NAMRU Labs (Navy),Naval Medical Research Command / Naval Medical Research Units,vaccines,YES,traces to NMRI 1942; renamed 2023,ongoing,agencies/dod-medical.md
+USAMRIID/DoD,US DoD,Defense Health Agency (DHA),Defense Health Agency,basic-research,PARTIAL,activated Oct 2013,ongoing,agencies/dod-medical.md
+USAMRIID/DoD,US DoD,GEIS & AFHSD,Global Emerging Infections Surveillance / Armed Forces Health Surveillance Division,biosurveillance-detection,YES,GEIS est 1997; ~$60M to six overseas labs FY2019,ongoing,agencies/dod-medical.md
+DHS,US gov agency,S&T Directorate - Chemical-Biological Defense R&D / PANTHR,Chemical Biological and Explosive (CBE) Defense thrust,biosurveillance-detection,YES,PANTHR ~$34-40M/yr FY21-24,ongoing,agencies/dhs.md
+DHS,US gov agency,Countering Weapons of Mass Destruction Office (CWMD),Countering Weapons of Mass Destruction,biosecurity-policy,YES,formed 2017; ~$409-452M/yr; FY2026 proposes dissolution,at risk,agencies/dhs.md
+DHS,US gov agency,NBACC,National Biodefense Analysis and Countermeasures Center,biosurveillance-detection,YES,est 2004; BSL-4 capable (Fort Detrick),ongoing,agencies/dhs.md
+DHS,US gov agency,BioWatch and BD21,BioWatch / Biological Detection for the 21st Century,biosurveillance-detection,YES,BioWatch deployed 2003 (~$80M/yr); BD21 discontinued Sept 2024,ongoing (Gen-2),agencies/dhs.md
+DHS,US gov agency,NBIC,National Biosurveillance Integration Center,biosurveillance-detection,YES,created 2007; operational 2008; ~$10-13M/yr,ongoing,agencies/dhs.md
+DHS,US gov agency,Plum Island (PIADC) -> NBAF,National Bio and Agro-Defense Facility,environmental-ag,PARTIAL,NBAF ~$1.25B; ownership transferred to USDA 2019/2023,transferred to USDA,agencies/dhs.md
+USAID,US gov agency,Emerging Pandemic Threats (EPT) / PREDICT,Emerging Pandemic Threats,biosurveillance-detection,YES,EPT-1 2009-2014; PREDICT 2009-2019,terminated 2025,agencies/usaid.md
+USAID,US gov agency,STOP Spillover,STOP Spillover,biosurveillance-detection,YES,2020-2025; $100M 5-yr; ~$31.2M obligated,terminated 2025,agencies/usaid.md
+USAID,US gov agency,Global Health Security (GHS) program / GHSA role,Global Health Security,biosurveillance-detection,YES,more than $1.1B since 2009,terminated 2025,agencies/usaid.md
+USAID,US gov agency,PIOET / Infectious Disease line,Pandemic Influenza and Other Emerging Threats,biosurveillance-detection,YES,since 2005; relabeled GHS from FY2016,terminated 2025,agencies/usaid.md
+USAID,US gov agency,COVID-19 international response,,vaccines,YES,~$10.54B managed by USAID; Global VAX ~$1.6B,concluded,agencies/usaid.md
+USAID,US gov agency,Antimicrobial resistance (MTaPS/SIAPS),Medicines Technologies and Pharmaceutical Services,AMR,PARTIAL,via Management Sciences for Health; MTaPS 2018-2023,terminated 2025,agencies/usaid.md
+USDA,US gov agency,APHIS Veterinary Services & NAHLN,National Animal Health Laboratory Network,environmental-ag,YES,since 2002; ~60 labs; FY2025 $6M,ongoing,agencies/usda.md
+USDA,US gov agency,National Bio and Agro-Defense Facility (NBAF),National Bio and Agro-Defense Facility,environmental-ag,YES,ownership transferred DHS->USDA spring 2023; large-animal BSL-4,ongoing,agencies/usda.md
+USDA,US gov agency,Agricultural Research Service (ARS) / National Animal Disease Center (NADC),National Animal Disease Center,environmental-ag,PARTIAL,Ames Iowa; 700+ staff,ongoing,agencies/usda.md
+USDA,US gov agency,NIFA competitive grants (AFRI),Agriculture and Food Research Initiative,environmental-ag,PARTIAL,~$445.2M FY2024,ongoing,agencies/usda.md
+USDA,US gov agency,Federal Select Agent Program (shared with CDC),Division of Agricultural Select Agents and Toxins,biosecurity-policy,PARTIAL,since 2002 (regulatory),ongoing,agencies/usda.md
+USDA,US gov agency,Highly pathogenic avian influenza (H5N1) response,Highly Pathogenic Avian Influenza,environmental-ag,YES,since 2022; Feb 2025 up to $1B (incl $100M vaccine/therapeutic research),ongoing,agencies/usda.md
+USDA,US gov agency,One Health coordination,,environmental-ag,PARTIAL,across APHIS/FSIS/NIFA/ARS with CDC/FDA,ongoing,agencies/usda.md
+State Dept,US gov agency,ISN / Office of Cooperative Threat Reduction (ISN/CTR) - Global Threat Reduction,Global Threat Reduction,biosecurity-policy,PARTIAL,GTR request ~$96.6M FY24,ongoing,agencies/state.md
+State Dept,US gov agency,Biosecurity Engagement Program (BEP),Biosecurity Engagement Program,biosecurity-policy,YES,first funded FY2006; small grants <$500K,ongoing,agencies/state.md
+State Dept,US gov agency,Bureau of Global Health Security and Diplomacy (GHSD),Bureau of Global Health Security and Diplomacy,biosurveillance-detection,YES,launched Aug 2023,ongoing,agencies/state.md
+State Dept,US gov agency,"Biological Weapons nonproliferation (BWC support, ISN/NDF)",Biological Weapons Convention support / Nonproliferation and Disarmament Fund,biosecurity-policy,PARTIAL,NDF est 1994,ongoing,agencies/state.md
+State Dept,US gov agency,Global Partnership Against the Spread of WMD (GP),Global Partnership,biosecurity-policy,PARTIAL,launched 2002 Kananaskis; Biological Security Working Group (SIMBA),ongoing,agencies/state.md
+State Dept,US gov agency,Contributions to multilateral funds (Pandemic Fund/CEPI/Gavi),,vaccines,YES,Pandemic Fund up to $667M; CEPI $50M GHSD (2026),ongoing (2025 reversals),agencies/state.md
+DOE/NNSA,US gov agency,BER & the Joint Genome Institute (JGI),Biological and Environmental Research / Joint Genome Institute,basic-research,NO,~$900M enacted FY2024 (non-human scope),ongoing,agencies/doe.md
+DOE/NNSA,US gov agency,NNSA Defense Nuclear Nonproliferation (DNN) & chem-bio lineage,Defense Nuclear Nonproliferation,biosurveillance-detection,PARTIAL,present-day nuclear-only; BASIS->BioWatch legacy,ongoing,agencies/doe.md
+DOE/NNSA,US gov agency,LLNL - biodetection & biosecurity,Lawrence Livermore Microbial Detection Array (LLMDA),biosurveillance-detection,YES,LLMDA licensed 2012; only BSL-3 among DOE labs,ongoing,agencies/doe.md
+DOE/NNSA,US gov agency,LANL - bioinformatics & epidemiology,COVID-19 Viral Genome Analysis Pipeline,biosurveillance-detection,YES,HIV Sequence Database since 1987; EpiCast,ongoing,agencies/doe.md
+DOE/NNSA,US gov agency,Sandia - diagnostics & global biosecurity,SpinDx / Global Chemical and Biological Security (GCBS),diagnostics,YES,GCBS since 2003; SpinDx ~$4M NIAID,ongoing,agencies/doe.md
+DOE/NNSA,US gov agency,PNNL & ORNL,,basic-research,PARTIAL,Chemical & Biological Signatures Science; bradykinin-storm analysis,ongoing,agencies/doe.md
+DOE/NNSA,US gov agency,National Virtual Biotechnology Laboratory (NVBL),National Virtual Biotechnology Laboratory,basic-research,YES,created Apr 2020; CARES Act $99.5M; across 17 labs,concluded,agencies/doe.md
+NSF,US gov agency,Predictive Intelligence for Pandemic Prevention (PIPP),Predictive Intelligence for Pandemic Prevention,biosurveillance-detection,YES,launched 2021; Phase I ~$26M (26 projects); Phase II ~$72M (4 Centers),ongoing,agencies/nsf.md
+NSF,US gov agency,Ecology and Evolution of Infectious Diseases (EEID),Ecology and Evolution of Infectious Diseases,basic-research,YES,since ~2000; ~$27-36.5M/yr,ongoing,agencies/nsf.md
+NSF,US gov agency,RAPID & COVID-19,Rapid Response Research,basic-research,YES,COVID via DCL 20-052 (Mar 2020); $75M CARES Act supplement,ongoing,agencies/nsf.md
+NSF,US gov agency,Convergence Accelerator,Convergence Accelerator,basic-research,NO,launched 2019; no pandemic track (negative finding),ongoing,agencies/nsf.md
+NSF,US gov agency,Expeditions in Computing / AI - Global Pervasive Computational Epidemiology,Global Pervasive Computational Epidemiology,biosurveillance-detection,YES,~$10M/5yr (2020),ongoing,agencies/nsf.md
+NSF,US gov agency,Biology Integration Institutes (BII) - VERENA,Viral Emergence Research Initiative,basic-research,YES,VERENA ~$9.5M (Aug 2022),ongoing,agencies/nsf.md
+IARPA,US DoD,Fun GCAT,Functional Genomic and Computational Assessment of Threats,synbio,YES,BAA 2016; contracts by early 2018; three phases,concluded,agencies/intel.md
+IARPA,US DoD,FELIX,Finding Engineering-Linked Indicators,synbio,YES,completed Oct 17 2022,concluded,agencies/intel.md
+IARPA,US DoD,MIST,Molecular Information Storage,synbio,NO,~$48M committed; awards Jan 2020,concluded,agencies/intel.md
+In-Q-Tel,US gov agency,B.Next - biodefense unit,B.Next,biosecurity-policy,YES,est 2015,ongoing,agencies/intel.md
+In-Q-Tel,US gov agency,Biotech thesis / strategic investment,,synbio,PARTIAL,founded 1999; equity investments (amounts undisclosed),ongoing,agencies/intel.md
+ARPA-H,US HHS,APECx,Antigens Predicted for Broad Viral Efficacy through Computational Experimentation,vaccines,YES,launched Oct 2023; awards Sept 2024; up to $204M,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,CUREIT,mRNA platform (cancer + emerging infectious disease),vaccines,YES,announced Aug 2023; up to $24M,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,DARTS,Defeating Antibiotic Resistance through Transformative Solutions,AMR,YES,announced Sept 2023; up to $104M,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,PROTECT,Pro/Prebiotic Regulation for Optimized Treatment and Eradication of Clinical Threats,AMR,YES,announced Oct 2024; up to $22.7M,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,TARGET,Transforming Antibiotic R&D with Generative AI,AMR,YES,announced Sept 2024; up to $27M,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,SCRIBE,Synthetic Carbohydrate Receptors for Infection Blocking,therapeutics-antivirals,YES,up to $12.7M; award start Feb 2026,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,MIGHTY,precision bacteriophage / microbiome platform,AMR,YES,up to $28M; start Sept 2025,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,DOORs,pathogen-host mapping programme,therapeutics-antivirals,PARTIAL,early stage; no announced awardees,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,BREATHE,Building Resilient Environments for Air and Total Health,PPE-air-UV,YES,launched Apr 2024; up to $156M over 5 yrs,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,Delphi,wearable & ingestible biosensors,diagnostics,PARTIAL,announced Mar 2026; no awardees yet,solicitation open,agencies/arpa-h.md
+ARPA-H,US HHS,OCULAB,Ocular Laboratory for Analysis of Biomarkers,diagnostics,PARTIAL,launched Oct 2024,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,POSEIDON,Platform Optimizing SynBio for Early Intervention and Detection in Oncology,diagnostics,PARTIAL,announced Aug 2024; up to $147M over 5 yrs (dual-use; cancer target),ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,GIVE,Genetic Medicines and Individualized Manufacturing for Everyone,MCM-manufacturing,YES,solicitation Sept 2025; not yet awarded,solicitation open,agencies/arpa-h.md
+ARPA-H,US HHS,WHEAT,Wheat-germ cell-free API manufacturing,MCM-manufacturing,YES,up to $29M; 2-yr; award start Mar 2025,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,SUPPLI,AI-guided pharmaceutical supply-chain shortage tool,MCM-manufacturing,YES,amount/year unverified,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,BoSS,BioStabilization Systems,MCM-manufacturing,YES,solicitation open ~Dec 2025; not yet awarded,solicitation open,agencies/arpa-h.md
+ARPA-H,US HHS,AdVAntage,cell-free viral-vector manufacturing,MCM-manufacturing,YES,up to $13.4M; start Jan 2025,ongoing,agencies/arpa-h.md
+ARPA-H,US HHS,DIGIHEALS,Digital Health Security,other,NO,announced Aug 2023; up to $50M (cybersecurity),ongoing,agencies/arpa-h.md
+CEPI,multilateral/nonprofit,Founding (2017 Davos),CEPI = Coalition for Epidemic Preparedness Innovations,vaccines,YES,2017,active,cepi.md
+CEPI,multilateral/nonprofit,Priority Pathogens (WHO R&D Blueprint),,vaccines,YES,2018-,active,cepi.md
+CEPI,multilateral/nonprofit,COVAX,COVAX = COVID-19 Vaccines Global Access,vaccines,YES,2020-2023,wound down,cepi.md
+CEPI,multilateral/nonprofit,100 Days Mission & ~$3.5B plan (CEPI 2.0),,vaccines,YES,~2022-2026,active,cepi.md
+CEPI,multilateral/nonprofit,Vaccine Library / Disease X / Rapid-Response Platforms,,vaccines,YES,2020-,active,cepi.md
+CEPI,multilateral/nonprofit,Partnerships,,vaccines,YES,ongoing,active,cepi.md
+CEPI,multilateral/nonprofit,Manufacturing Network,,MCM-manufacturing,YES,2020-,active,cepi.md
+Gates Foundation,foundation/philanthropy,Global Health Division,,basic-research,YES,1999-,active,gates.md
+Gates Foundation,foundation/philanthropy,Vaccine Development & Delivery,,vaccines,YES,2000-,active,gates.md
+Gates Foundation,foundation/philanthropy,Grand Challenges family,GCGH = Grand Challenges in Global Health; GCE = Grand Challenges Explorations,basic-research,YES,2003-2023,active,gates.md
+Gates Foundation,foundation/philanthropy,"Gavi, the Vaccine Alliance",Gavi = Global Alliance for Vaccines and Immunisation,vaccines,YES,1999-2030,active,gates.md
+Gates Foundation,foundation/philanthropy,CEPI co-founder,CEPI = Coalition for Epidemic Preparedness Innovations,vaccines,YES,2017-2022,active,gates.md
+Gates Foundation,foundation/philanthropy,Institute for Disease Modeling (IDM),IDM = Institute for Disease Modeling,biosurveillance-detection,PARTIAL,2008-,active,gates.md
+Gates Foundation,foundation/philanthropy,Pandemic-preparedness advocacy,GERM = Global Epidemic Response and Mobilization,biosecurity-policy,YES,2015-,active,gates.md
+Gates Foundation,foundation/philanthropy,COVID-19 Therapeutics Accelerator (CTA),CTA = COVID-19 Therapeutics Accelerator,therapeutics-antivirals,YES,2020,active,gates.md
+Gates Foundation,foundation/philanthropy,Medicines Patent Pool (MPP),MPP = Medicines Patent Pool,therapeutics-antivirals,PARTIAL,2021,active,gates.md
+Gates Foundation,foundation/philanthropy,mRNA / Manufacturing-in-Africa,,MCM-manufacturing,YES,2022-2024,active,gates.md
+Wellcome Trust,foundation/philanthropy,Infectious Disease challenge,,basic-research,YES,2020-,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,Epidemic & pandemic preparedness,,biosecurity-policy,YES,ongoing,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,CEPI co-founder,CEPI = Coalition for Epidemic Preparedness Innovations,vaccines,YES,2016-2022,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,COVID-19 Therapeutics Accelerator (CTA),CTA = COVID-19 Therapeutics Accelerator,therapeutics-antivirals,YES,2020,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,Broader COVID-19 response & ACT-Accelerator,ACT-Accelerator = Access to COVID-19 Tools Accelerator,therapeutics-antivirals,YES,2020,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,Drug-Resistant Infections Priority Programme,,AMR,YES,2016-,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,Surveillance & genomics (COG-UK),COG-UK = COVID-19 Genomics UK Consortium,biosurveillance-detection,YES,2020-,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,Wellcome Sanger Institute,,biosurveillance-detection,YES,1992-,active,wellcome.md
+Wellcome Trust,foundation/philanthropy,Clinical research networks - ISARIC & overseas units,ISARIC = International Severe Acute Respiratory and emerging Infection Consortium,biosurveillance-detection,YES,2011-2025,active,wellcome.md
+Wellcome Leap,foundation/philanthropy,R3 - RNA Readiness + Response (and R3 Global),R3 = RNA Readiness + Response,vaccines,YES,~2021-2025,active,wellcome-leap.md
+Wellcome Leap,foundation/philanthropy,Focused Antibiotics,,AMR,YES,2026,active,wellcome-leap.md
+Wellcome Leap,foundation/philanthropy,HOPE - Human Organs Physiology and Engineering,HOPE = Human Organs Physiology and Engineering,basic-research,PARTIAL,2020,active,wellcome-leap.md
+Open Philanthropy,foundation/philanthropy,Biosecurity and Pandemic Preparedness (BPP),BPP = Biosecurity and Pandemic Preparedness,biosecurity-policy,YES,2014-,active,open-phil.md
+Rockefeller Foundation,foundation/philanthropy,Precision Public Health Initiative,PPI = Precision Public Health Initiative,biosurveillance-detection,YES,2019,active,rockefeller.md
+Rockefeller Foundation,foundation/philanthropy,$1B COVID-19 recovery commitment,,diagnostics,YES,2020,active,rockefeller.md
+Rockefeller Foundation,foundation/philanthropy,U.S. COVID-19 testing (National Covid-19 Testing Action Plan),,diagnostics,YES,2020-2022,active,rockefeller.md
+Rockefeller Foundation,foundation/philanthropy,Genomic & disease surveillance,,biosurveillance-detection,YES,2021,active,rockefeller.md
+Rockefeller Foundation,foundation/philanthropy,Pandemic Prevention Institute (PPI),PPI = Pandemic Prevention Institute,biosurveillance-detection,YES,2021-2022,wound down,rockefeller.md
+CZI,foundation/philanthropy,Chan Zuckerberg Biohub - San Francisco,,basic-research,YES,2016-2031,active,czi.md
+CZI,foundation/philanthropy,CZ ID / IDseq - metagenomic pathogen detection,CZ ID = Chan Zuckerberg Infectious Disease,biosurveillance-detection,YES,ongoing,active,czi.md
+CZI,foundation/philanthropy,COVID-19 sequencing & the CLIAHUB,CLIA = Clinical Laboratory Improvement Amendments,diagnostics,YES,2020,active,czi.md
+CZI,foundation/philanthropy,Biohub Network expansion (Chicago & New York),,basic-research,PARTIAL,2023,active,czi.md
+CZI,foundation/philanthropy,Single-cell biology / Human Cell Atlas,HCA = Human Cell Atlas,basic-research,PARTIAL,2016-,active,czi.md
+CZI,foundation/philanthropy,Pathogen genomics / global biosurveillance,,biosurveillance-detection,YES,ongoing,active,czi.md
+Novo Nordisk Foundation,foundation/philanthropy,Global Pathogen Analysis Platform (GPAP),GPAP = Global Pathogen Analysis Platform,biosurveillance-detection,YES,2025,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,Pandemic Antiviral Discovery (PAD),PAD = Pandemic Antiviral Discovery,therapeutics-antivirals,YES,2022-,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,NNF Initiative for Vaccines and Immunity (NIVI),NIVI = NNF Initiative for Vaccines and Immunity; NVAC = NNF Vaccine Accelerator,vaccines,YES,2023,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,AIM Bio,,MCM-manufacturing,PARTIAL,2019,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,REPAIR Impact Fund,REPAIR = Replenishing and Enabling the Pipeline for Anti-Infective Resistance,AMR,YES,2018,closed to new proposals,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,AMR Action Fund,AMR = Antimicrobial Resistance,AMR,YES,2020,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,CARB-X,CARB-X = Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator,AMR,YES,2024,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,Three-funder partnership (Gates + NNF + Wellcome) / Gr-ADI,Gr-ADI = Gram-Negative Antibiotic Discovery Innovator,AMR,YES,2024-2026,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,WHO framework agreement,,AMR,YES,2025-2028,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,PIG-PARADIGM / Infectious Diseases Catalyst Grants,,AMR,PARTIAL,2022-,active,novo-nordisk.md
+Novo Nordisk Foundation,foundation/philanthropy,COVID-19 response,,other,YES,2020-2021,active,novo-nordisk.md
+Skoll/Ending Pandemics,foundation/philanthropy,Skoll Global Threats Fund (SGTF),SGTF = Skoll Global Threats Fund,biosurveillance-detection,YES,2009-2017,sunset,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,Ending Pandemics,,biosurveillance-detection,YES,2018-,active,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,Flu Near You,,biosurveillance-detection,YES,2011-,active,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,EpiHacks,,biosurveillance-detection,YES,2013-2018,active,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,PODD (Thailand),PODD = Participatory One Health Disease Detection,biosurveillance-detection,YES,2014-,active,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,EpiCore,,biosurveillance-detection,YES,2016-,active,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,Mass-gathering surveillance (Brazil),,biosurveillance-detection,YES,2014-2016,active,skoll.md
+Skoll/Ending Pandemics,foundation/philanthropy,Skoll Foundation (broader) & COVID-19 response,,other,PARTIAL,1999-2020,active,skoll.md
+HHMI,foundation/philanthropy,Investigator Program,HHMI = Howard Hughes Medical Institute,basic-research,PARTIAL,ongoing,active,other-funders.md
+HHMI,foundation/philanthropy,Emerging Pathogens Initiative,,basic-research,YES,2023,active,other-funders.md
+Bloomberg,foundation/philanthropy,Data for Health,,biosurveillance-detection,PARTIAL,2015-,active,other-funders.md
+Bloomberg,foundation/philanthropy,Public-health programme (tobacco/NCDs/road safety),NCDs = Non-Communicable Diseases,other,NO,2005-,active,other-funders.md
+Trinity Challenge,foundation/philanthropy,Challenge 1 - Protect against future health emergencies,TTC = The Trinity Challenge,biosurveillance-detection,YES,2021,active,other-funders.md
+Trinity Challenge,foundation/philanthropy,Challenge 2 - Antimicrobial Resistance,AMR = Antimicrobial Resistance,AMR,YES,2024,active,other-funders.md
+Trinity Challenge,foundation/philanthropy,Challenge 3 - Community Access to Effective Antibiotics,,AMR,YES,2025,active,other-funders.md
+Schmidt,foundation/philanthropy,AI2050,,basic-research,NO,ongoing,active,other-funders.md
+Schmidt,foundation/philanthropy,Eric and Wendy Schmidt Center at the Broad Institute,,basic-research,PARTIAL,2021,active,other-funders.md
+Flu Lab,foundation/philanthropy,Universal flu vaccine partnership (with Gates),,vaccines,YES,2019,active,other-funders.md
+Resolve to Save Lives,foundation/philanthropy,Epidemics / Epidemic Prevention (7-1-7 metric),RTSL = Resolve to Save Lives,biosurveillance-detection,YES,2017-,active,other-funders.md
+Resolve to Save Lives,foundation/philanthropy,Cardiovascular Health,,other,NO,2017-,active,other-funders.md
+Audacious Project,foundation/philanthropy,SENTINEL,,diagnostics,YES,2020,active,other-funders.md
+Patrick J. McGovern Foundation,foundation/philanthropy,AI-for-health / data-infrastructure grantmaking,,biosurveillance-detection,PARTIAL,ongoing,active,other-funders.md
+ELMA Foundation,foundation/philanthropy,mRNA Technology Transfer Programme funder,,MCM-manufacturing,PARTIAL,2021-,active,other-funders.md
+Open Philanthropy,foundation/philanthropy,Physical transmission suppression (far-UVC/UVGI/ventilation/filtration) & next-gen PPE,UVGI = Ultraviolet Germicidal Irradiation,PPE-air-UV,YES,ongoing,active,air-ppe-uv-glycols.md
+Blueprint Biosecurity,foundation/philanthropy,AIR (Airborne Infection Resilience) - far-UVC / next-gen PPE / glycol-vapor,AIR = Airborne Infection Resilience,PPE-air-UV,YES,2023-,active,air-ppe-uv-glycols.md
+Blueprint Biosecurity,foundation/philanthropy,GlycolISER,,PPE-air-UV,YES,2026-2027,active,air-ppe-uv-glycols.md
+Balvi,foundation/philanthropy,Clean / indoor air & germicidal-UV portfolio,,PPE-air-UV,YES,2022-,active,air-ppe-uv-glycols.md
+NIOSH/NPPTL,foundation/philanthropy,National Personal Protective Technology Laboratory (NPPTL) & Project BREATHE,NPPTL = National Personal Protective Technology Laboratory,PPE-air-UV,YES,1995-,active,air-ppe-uv-glycols.md
+BARDA/ASPR,foundation/philanthropy,Respiratory PPE / SNS / DPA Title III,"DPA = Defense Production Act; SNS = Strategic National Stockpile",PPE-air-UV,YES,2017-2022,active,air-ppe-uv-glycols.md
+ARPA-H,foundation/philanthropy,BREATHE,BREATHE = Building Resilient Environments for Air and Total HEalth,PPE-air-UV,YES,2024-,active,air-ppe-uv-glycols.md
+CDC/EPA,foundation/philanthropy,Clean Air in Buildings Challenge & ESSER,ESSER = Elementary and Secondary School Emergency Relief,PPE-air-UV,YES,2022,active,air-ppe-uv-glycols.md
+EPA,foundation/philanthropy,Air-sanitizer pathway & Grignard Pure (glycol),FIFRA = Federal Insecticide Fungicide and Rodenticide Act,PPE-air-UV,YES,2021,active,air-ppe-uv-glycols.md
+NIH,foundation/philanthropy,Germicidal UV (UVGI) air disinfection,UVGI = Ultraviolet Germicidal Irradiation,PPE-air-UV,YES,2006-2025,active,air-ppe-uv-glycols.md
