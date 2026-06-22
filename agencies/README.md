@@ -14,7 +14,7 @@ US Government agencies and offices that fund work similar to DARPA BTO / BARDA: 
 | 6 | USAMRIID / MRDC / CDMRP | DoD | Army biodefense research & medical R&D programmes | [dod-medical.md](dod-medical.md) | ✅ |
 | 7 | DHS S&T + CWMD (NBACC, BioWatch) | DHS | Biodefense analysis, biosurveillance | [dhs.md](dhs.md) | ✅ |
 | 8 | USAID | State/USAID | Emerging Pandemic Threats (PREDICT), STOP Spillover, GHS | [usaid.md](usaid.md) | ✅ |
-| 9 | USDA (APHIS, ARS, NIFA) | USDA | Agricultural biosecurity, zoonotic disease | [usda.md](usda.md) | 🟡 |
+| 9 | USDA (APHIS, ARS, NIFA) | USDA | Agricultural biosecurity, zoonotic disease | [usda.md](usda.md) | ✅ |
 | 10 | Department of State (BEP, GHSD) | State | Biosecurity Engagement Program, Global Health Security & Diplomacy | [state.md](state.md) | ✅ |
 | 11 | DOE national labs / NNSA | DOE | LLNL/LANL/Sandia biosurveillance & bioscience | [doe.md](doe.md) | ✅ |
 | 12 | NSF | NSF | Predictive Intelligence for Pandemic Prevention (PIPP); basic research | [nsf.md](nsf.md) | ✅ |

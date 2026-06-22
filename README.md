@@ -13,13 +13,16 @@ Research project on **DARPA Biological Technologies Office (BTO)** and **BARDA**
 - `REQUESTS.md` — chronological log of user requests driving the project.
 - `agencies/` — other USG agencies doing similar work; one MD per agency (programmes + grantees). Registry in `agencies/README.md`.
 - `foundations/` — philanthropic/non-profit funders (CEPI, Gates, Wellcome, …); one MD per funder. Registry in `foundations/README.md`.
+- `themes/` — cross-cutting thematic files that span funders, e.g. `air-ppe-uv-glycols.md` (respiratory PPE, air purifiers, germicidal UV / far-UVC, glycol air disinfection).
+- `data/` — consolidated CSV database extracted from all the MD files: `programs.csv` (programmes/initiatives) and `awards.csv` (grants/contracts/awards). For easy viewing/filtering.
 - `findings/` — distilled write-ups per sub-topic as the project matures.
 - `sources/` — captured references, links, and source notes.
 
 ## Status
 
 - 🟢 Phase 1 (DARPA BTO + BARDA programmes) and Phase 2 (their grants/contracts) complete.
-- 🟡 Phase 3 (other USG agencies + foundations: programmes → grantees) in progress.
+- 🟢 Phase 3 (14 USG agencies + 10 foundations: programmes → grantees) complete.
+- 🟢 Phase 4 (airborne-mitigation theme: PPE / air / UV / glycols) + CSV database.
 
 ## Workflow
 
