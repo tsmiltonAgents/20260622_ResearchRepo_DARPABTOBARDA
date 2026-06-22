@@ -52,3 +52,28 @@
 ### Caveats
 - Ceiling vs obligated distinction preserved per row. Federal databases (USAspending/FPDS) resisted automated extraction; most figures come from press releases (often "up to"). PIIDs and GAO report numbers are cited for audit-grade follow-up.
 - **Phase 2 complete.** Both deliverables (`allprogs.md`, `allgrants.md`) pushed.
+
+---
+
+## 2026-06-22 — Repo admin
+
+- **User request:** make the repo public and rename it to `20260622_ResearchRepo_DARPABTOBARDA`.
+- → Done via `gh repo edit --visibility public` and `gh repo rename`. Local remote updated automatically. (Local folder name unchanged.)
+
+---
+
+## 2026-06-22 — Phase 3 kickoff: USG agencies + foundations (parallel)
+
+**User request (verbatim intent):** run a long agentic loop — think of other USG agencies that do similar work to DARPA BTO/BARDA, find their programmes, then their grantees; *in parallel* do the same for foundations (CEPI, Wellcome, Gates, etc.); add more folder structure to enable this; keep these requests logged. (Also recorded in `REQUESTS.md` #5.)
+
+**Structure added:**
+- `agencies/` — one MD per USG agency (programmes + grantees); registry in `agencies/README.md`.
+- `foundations/` — one MD per funder (programmes + grantees); registry in `foundations/README.md`.
+- `REQUESTS.md` — chronological log of user requests.
+
+**Scope decision (logged for transparency):** "find their grantees" is bounded to pandemic/biosecurity/infectious-disease/MCM work and to *notable/major* awardees — not exhaustive grant-database dumps (NIH/Gates each make thousands of awards). Files state where a full list is impractical and give the largest/most representative awards with sources.
+
+**Plan — research waves (agencies and foundations run concurrently):**
+- *Wave 1 (agencies):* NIH/NIAID, CDC, ASPR, DTRA, JPEO-CBRND, DoD medical (USAMRIID/MRDC/CDMRP). *(foundations parallel:)* CEPI, Gates, Wellcome.
+- *Wave 2 (agencies):* DHS, USAID, USDA, State Dept, DOE/NNSA, NSF, IARPA/In-Q-Tel, ARPA-H. *(foundations parallel:)* Wellcome Leap, Open Philanthropy, Rockefeller, CZI, Novo Nordisk, Skoll, other funders.
+- Each entity researched by a dedicated web-enabled subagent; results written to its file; committed/pushed per wave.

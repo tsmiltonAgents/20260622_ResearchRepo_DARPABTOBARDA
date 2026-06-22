@@ -10,12 +10,16 @@ Research project on **DARPA Biological Technologies Office (BTO)** and **BARDA**
 ## Structure
 
 - `RESEARCH_LOG.md` — running log of all research and thinking, newest entries appended chronologically.
+- `REQUESTS.md` — chronological log of user requests driving the project.
+- `agencies/` — other USG agencies doing similar work; one MD per agency (programmes + grantees). Registry in `agencies/README.md`.
+- `foundations/` — philanthropic/non-profit funders (CEPI, Gates, Wellcome, …); one MD per funder. Registry in `foundations/README.md`.
 - `findings/` — distilled write-ups per sub-topic as the project matures.
 - `sources/` — captured references, links, and source notes.
 
 ## Status
 
-🟢 Phase 1 (programmes) and Phase 2 (grants/contracts) complete.
+- 🟢 Phase 1 (DARPA BTO + BARDA programmes) and Phase 2 (their grants/contracts) complete.
+- 🟡 Phase 3 (other USG agencies + foundations: programmes → grantees) in progress.
 
 ## Workflow
 
