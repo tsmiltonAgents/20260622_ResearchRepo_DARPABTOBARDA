@@ -77,3 +77,22 @@
 - *Wave 1 (agencies):* NIH/NIAID, CDC, ASPR, DTRA, JPEO-CBRND, DoD medical (USAMRIID/MRDC/CDMRP). *(foundations parallel:)* CEPI, Gates, Wellcome.
 - *Wave 2 (agencies):* DHS, USAID, USDA, State Dept, DOE/NNSA, NSF, IARPA/In-Q-Tel, ARPA-H. *(foundations parallel:)* Wellcome Leap, Open Philanthropy, Rockefeller, CZI, Novo Nordisk, Skoll, other funders.
 - Each entity researched by a dedicated web-enabled subagent; results written to its file; committed/pushed per wave.
+
+### Wave 1 complete (2026-06-22)
+Ran 9 parallel web-enabled subagents. Files written:
+- Agencies: `niaid.md`, `cdc.md`, `aspr.md`, `dtra.md`, `jpeo-cbrnd.md`, `dod-medical.md`
+- Foundations: `cepi.md`, `gates.md`, `wellcome.md`
+
+**Highlights / cross-checks the agents caught:**
+- **NIH/NIAID** is the upstream-research counterpart to BARDA/DARPA: AViDD Centers (~$577M, 9 centers, 2022), CREID, CEIRR, CIVICs, ReVAMPP, VRC (co-developed Moderna mRNA-1273), ~$1B biocontainment lab network. "Prototype pathogen" approach spans ~10 viral families (not "25+").
+- **CDC** funds via cooperative agreements (ELC since 1995, ~65 jurisdictions, the main COVID-supplement conduit; PHEP; CFA $200M ARPA; Insight Net up to $262.5M/>$148M awarded). SNS moved CDC→ASPR in 2018.
+- **ASPR (non-BARDA):** PHEMCE, SNS (~$980M FY24), Project BioShield SRF ($825M FY24), HPP (~$240M/yr, 62 recipients), RDHRS, DPA Title III. Phlow $354M flagged as a BARDA award (no double-count).
+- **DTRA:** JSTO/CBDP S&T (~$1.4–1.7B CBDP), CTR/BTRP (formerly CBEP; ~$139–235M recent), DOMANE drug-repurposing, BSVE biosurveillance. Overseas partner labs (Lugar/Tbilisi, Almaty, Ukraine) — surveillance, not bioweapons (2022 disinformation debunked).
+- **JPEO-CBRND:** DoD acquisition counterpart to BARDA; MCDC OTA (~$10B ceiling, >$7.8B awarded). During COVID it was the **contracting vehicle** for ~$10.8B of HHS/BARDA OWS money — overlaps with BARDA, not additive. Clean MCDC awards: Regeneron $450.2M, AstraZeneca AZD7442 ~$486M, Cepheid ~$3.7M.
+- **DoD medical:** USAMRIID (only DoD BSL-4; ZMapp, TPOXX), WRAIR (RTS,S malaria, RV144 HIV, SpFN COVID), NMRC/NAMRU (PfSPZ, enteric vaccines), CDMRP (~$20B cumulative; TBDRP), GEIS (~$60M/yr to 6 overseas labs). HJF is the dominant funding intermediary.
+- **CEPI:** vaccine-developer awards well-documented — Lassa/MERS/Nipah/RVF/Chikungunya portfolios + COVID (Novavax up to ~$384–399M, its largest; Moderna's first investment only ~$0.9M). 100 Days Mission / $3.5B plan.
+- **Gates:** >$30.6B to vaccines since 2000; Gavi ~$7.7B cumulative (largest grantee); CEPI co-founder; CTA (with Wellcome/Mastercard); WHO ~$5.5B cumulative. Caught: no direct Gates→MPP grant; "$15M Pandemic Fund" likely Rockefeller's; Afrigen reportedly not Gates-funded.
+- **Wellcome:** three-challenge strategy (Infectious Disease/Mental Health/Climate); CEPI co-founder ($100M + $300M joint pledge); CTA ($50M); CARB-X/GARDP (AMR); Sanger Institute (wholly owned); overseas units (KEMRI-Wellcome £91M, MORU, MLW, OUCRU); ISARIC.
+
+**Recurring caveat across all:** federal/foundation databases resisted automated fetching; most figures are press-release "ceiling"/"up to" values, flagged per file. Awardee lists are representative, not exhaustive (esp. NIH, CDC, Gates).
+**Next:** Wave 2 — DHS, USAID, USDA, State, DOE/NNSA, NSF, intel (IARPA/In-Q-Tel), ARPA-H + foundations (Wellcome Leap, Open Phil, Rockefeller, CZI, Novo Nordisk, Skoll, other funders).
