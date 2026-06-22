@@ -10,9 +10,9 @@ Philanthropic and non-profit funders of pandemic preparedness, epidemic-response
 | 2 | Bill & Melinda Gates Foundation | USA | Global health, vaccines, Grand Challenges, diagnostics | [gates.md](gates.md) | ✅ |
 | 3 | Wellcome Trust | UK | Infectious disease, epidemic preparedness, drug-resistant infections | [wellcome.md](wellcome.md) | ✅ |
 | 4 | Wellcome Leap | USA/global | Moonshot health programmes (e.g. R3, pandemic-relevant) | [wellcome-leap.md](wellcome-leap.md) | ✅ |
-| 5 | Open Philanthropy | USA | Biosecurity & pandemic-preparedness grantmaking | [open-phil.md](open-phil.md) | 🟡 |
+| 5 | Open Philanthropy | USA | Biosecurity & pandemic-preparedness grantmaking | [open-phil.md](open-phil.md) | ✅ |
 | 6 | Rockefeller Foundation | USA | Pandemic Prevention Institute, preparedness, surveillance | [rockefeller.md](rockefeller.md) | ✅ |
-| 7 | Chan Zuckerberg Initiative | USA | Science programme, CZ Biohub, infectious-disease tools | [czi.md](czi.md) | 🟡 |
+| 7 | Chan Zuckerberg Initiative | USA | Science programme, CZ Biohub, infectious-disease tools | [czi.md](czi.md) | ✅ |
 | 8 | Novo Nordisk Foundation | Denmark | Pandemic antiviral / preparedness, antimicrobial resistance | [novo-nordisk.md](novo-nordisk.md) | ✅ |
 | 9 | Skoll Foundation (Ending Pandemics) | USA | Global Threats Fund, surveillance/early detection | [skoll.md](skoll.md) | ✅ |
 | 10 | Other funders (HHMI, Bloomberg, CZ Biohub, Trinity Challenge, Schmidt, Flu Lab) | various | Adjacent / smaller pandemic & infectious-disease funders | [other-funders.md](other-funders.md) | ✅ |
