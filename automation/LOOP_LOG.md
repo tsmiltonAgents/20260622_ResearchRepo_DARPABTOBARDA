@@ -18,3 +18,10 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +9 programmes, +12 awards (now 321 / 633).
 - Notable: the EU joint-procurement portfolio reached **up to 4.6bn doses / ~€71bn** (ECA estimate), Pfizer/BioNTech alone up to 2.4bn doses; HERA Invest venture-debt (Fabentech, Leyden Labs) is a newer BARDA-style instrument.
 - Committed/pushed. Next: Cycle 3 (Canada + Australia).
+
+## Cycle 3 — 2026-06-23 ~03:42 BST — Canada + Australia → `international/canada-australia.md`
+- Canada: CIHR rapid research, PHAC/NML (BSL-4), Strategic Innovation Fund + CAD 2.2B Biomanufacturing Strategy (Sanofi, AbCellera, Resilience, Medicago, VIDO, NRC), IDRC, CEPI/COVAX.
+- Australia: NHMRC/APPRISE, MRFF (AUD 25.4B fund), CSIRO ACDP (BSL-4), Doherty Institute, Moderna/BioNTech mRNA plants, new Australian CDC (AUD 251.7M), CEPI pledge.
+- Appended +9 programmes, +12 awards (now 330 / 645).
+- Notable: two cautionary biomanufacturing cases — Canada's Medicago (SIF-funded, wound down 2023) and the failed CanSino/NRC China deal (CAD 44M, no doses). Both countries built sovereign mRNA capacity post-COVID.
+- Committed/pushed. Next: Cycle 4 (Germany/France/Netherlands).

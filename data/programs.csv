@@ -320,3 +320,12 @@ IHI/IMI,multilateral/nonprofit,Innovative Health Initiative (public-private),Inn
 IMI,multilateral/nonprofit,Ebola+ programme,,vaccines,YES,2014-,Complete,international/eu.md
 EIB,multilateral/nonprofit,Vaccine/therapeutic financing,European Investment Bank,MCM-manufacturing,YES,2020-,Active,international/eu.md
 European Defence Fund,US gov agency,CBRN detection/decontamination strand,,biosecurity-policy,PARTIAL,2021-2027,Active,international/eu.md
+CIHR (Canada),multilateral/nonprofit,COVID-19 Rapid Research Funding,Canadian Institutes of Health Research,therapeutics-antivirals,YES,2020-2021,Complete,international/canada-australia.md
+PHAC (Canada),multilateral/nonprofit,National Microbiology Laboratory (BSL-4),,biosurveillance-detection,YES,1999-,Active,international/canada-australia.md
+ISED (Canada),multilateral/nonprofit,Strategic Innovation Fund - life sciences,,MCM-manufacturing,YES,2021-,Active,international/canada-australia.md
+ISED (Canada),multilateral/nonprofit,Biomanufacturing and Life Sciences Strategy,,MCM-manufacturing,YES,2021-,Active,international/canada-australia.md
+IDRC (Canada),multilateral/nonprofit,Pandemic/One Health research in LMICs,International Development Research Centre,biosurveillance-detection,YES,2020-,Active,international/canada-australia.md
+NHMRC (Australia),multilateral/nonprofit,APPRISE infectious-disease network,,biosurveillance-detection,YES,2016-2021,Complete,international/canada-australia.md
+MRFF (Australia),multilateral/nonprofit,Medical Research Future Fund Missions,Medical Research Future Fund,basic-research,PARTIAL,2024-2034,Active,international/canada-australia.md
+CSIRO (Australia),multilateral/nonprofit,Australian Centre for Disease Preparedness (BSL-4),ACDP,environmental-ag,YES,1985-,Active,international/canada-australia.md
+Australia,multilateral/nonprofit,Australian Centre for Disease Control,Australian CDC,biosurveillance-detection,YES,2024-2026,Active,international/canada-australia.md

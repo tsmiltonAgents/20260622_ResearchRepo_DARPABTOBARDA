@@ -632,3 +632,15 @@ IMI,multilateral/nonprofit,COVID fast-track,CARE (Corona Accelerated R&D in Euro
 IMI,multilateral/nonprofit,Ebola+,EBOVAC/EBODAC/EBOMAN consortia,part of ~€280m+ programme,302.4,,2014-,vaccines,Janssen Ad26/MVA Ebola regimen development/deployment,international/eu.md
 Horizon 2020,multilateral/nonprofit,COVID emergency call 2,24 research projects,€128m,138.2,,2020,therapeutics-antivirals,2nd emergency COVID research call,international/eu.md
 European Commission,multilateral/nonprofit,EU+CEPI,CEPI,~€35m,37.8,,2019-,vaccines,EU co-funding of CEPI vaccine candidates incl. Rift Valley fever,international/eu.md
+CIHR (Canada),multilateral/nonprofit,Rapid Research,140 COVID research projects,CAD 111.1M,111.1,,2020,therapeutics-antivirals,June 2020 rapid round,international/canada-australia.md
+ISED (Canada),multilateral/nonprofit,SIF,Sanofi Pasteur (Toronto),up to CAD 415M,415.0,ceiling,2021,vaccines,flu vaccine end-to-end facility,international/canada-australia.md
+ISED (Canada),multilateral/nonprofit,SIF,AbCellera (Vancouver),CAD 175.6M + CAD 225M,225.0,,2020-2023,therapeutics-antivirals,antibody therapy facility + biotech campus,international/canada-australia.md
+ISED (Canada),multilateral/nonprofit,SIF,National Resilience (Mississauga),up to CAD 199.16M,199.2,ceiling,2021,MCM-manufacturing,vaccine/therapeutic manufacturing,international/canada-australia.md
+ISED (Canada),multilateral/nonprofit,SIF,Medicago (Quebec),up to CAD 173M,173.0,ceiling,2020,vaccines,VLP vaccine + facility (later wound down 2023),international/canada-australia.md
+Canada Biomanufacturing Strategy,multilateral/nonprofit,VIDO-InterVac,University of Saskatchewan,CAD 94.2M,94.2,,2020-2021,vaccines,vaccine R&D + biomanufacturing (CAD 35M + 59.2M),international/canada-australia.md
+NRC (Canada),multilateral/nonprofit,Biologics Manufacturing Centre,NRC Montreal (Royalmount),CAD 126M,126.0,,2020,MCM-manufacturing,domestic vaccine manufacturing centre,international/canada-australia.md
+Genome Canada,multilateral/nonprofit,CanCOGeN,Genome Canada genomics network,CAD 40M,40.0,,2020,biosurveillance-detection,COVID genomics network,international/canada-australia.md
+Australia,multilateral/nonprofit,Onshore vaccine mfg,CSL Seqirus,~AUD 1B,1000.0,ceiling,2020,vaccines,10-yr flu-pandemic vaccine/antivenom manufacturing (Tullamarine),international/canada-australia.md
+Australia,multilateral/nonprofit,mRNA manufacturing,Moderna (Victoria),up to AUD 25M + AUD 12.3M,25.0,obligated,2021-2023,vaccines,Monash mRNA facility (Commonwealth + Victoria; rest confidential),international/canada-australia.md
+NHMRC (Australia),multilateral/nonprofit,Investigator Grants,Doherty Institute,>AUD 30.5M,30.5,,2023,basic-research,AMR/influenza/TB/malaria/COVID research,international/canada-australia.md
+MRFF (Australia),multilateral/nonprofit,Genomics Health Futures,AusPathoGen consortium,AUD 10M,10.0,,2022,biosurveillance-detection,pathogen genomics,international/canada-australia.md
