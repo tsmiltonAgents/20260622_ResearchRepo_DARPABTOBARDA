@@ -33,3 +33,11 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +9 programmes, +12 awards (now 339 / 657).
 - Notable: Germany's €375M to BioNTech is the single clearest "government de-risked the COVID vaccine" line in the dataset; France was NOT a CEPI founding-government donor (corrected).
 - Committed/pushed. Next: Cycle 5 (Japan/Korea/Singapore).
+
+## Cycle 5 — 2026-06-23 ~04:44 BST — Japan / Korea / Singapore → `international/asia-pacific.md`
+- Japan: AMED, **SCARDA** (¥150.4bn vaccine agency + university hubs), MHLW COVID subsidies (Shionogi/Takeda/Daiichi/KM), JIHS, GHIT Fund.
+- Korea: KDCA, KHIDI, K-vaccine hub (KRW 2.2tn), KDCA mRNA project (KRW 505.2bn), SK bioscience (~US$260m CEPI).
+- Singapore: NMRC, PREPARE (SGD 100m), A*STAR IDL, Duke-NUS, DSO/DMERI.
+- Appended +10 programmes, +12 awards (now 349 / 669).
+- Notable: Japan's SCARDA (2022) and Korea's KRW 505bn mRNA project are explicit post-COVID "build a sovereign 100-day vaccine capability" bets, mirroring BARDA/HERA/ARIA.
+- Committed/pushed. Next: Cycle 6 (India/South Africa/Brazil).

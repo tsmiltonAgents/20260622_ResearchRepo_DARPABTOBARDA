@@ -8,7 +8,7 @@ Non-US government and multilateral funders of pandemic preparedness, infectious-
 | European Union | [eu.md](eu.md) | ✅ |
 | Canada + Australia | [canada-australia.md](canada-australia.md) | ✅ |
 | Germany / France / Netherlands | [europe-national.md](europe-national.md) | ✅ |
-| Japan / Korea / Singapore | [asia-pacific.md](asia-pacific.md) | ⬜ |
+| Japan / Korea / Singapore | [asia-pacific.md](asia-pacific.md) | ✅ |
 | India / South Africa / Brazil | [gsouth.md](gsouth.md) | ⬜ |
 | Multilateral (WHO, Pandemic Fund, Unitaid, …) | [multilateral.md](multilateral.md) | ⬜ |
 | Gavi + Global Fund | [gavi-globalfund.md](gavi-globalfund.md) | ⬜ |

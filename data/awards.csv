@@ -656,3 +656,15 @@ France 2030,multilateral/nonprofit,PEPR Biotherapies,ImCheck Therapeutics,€20.
 ZonMw (Netherlands),multilateral/nonprofit,Pandemic Preparedness,NCOH (Netherlands Centre for One Health),€2.5M,2.7,,2022,biosurveillance-detection,pandemic-preparedness research,international/europe-national.md
 ZonMw (Netherlands),multilateral/nonprofit,Pandemic Preparedness,BePrepared consortium,€1.6M,1.728,,2023,biosecurity-policy,social-science pandemic research,international/europe-national.md
 Netherlands,multilateral/nonprofit,Infectious-disease facility,Centre for Human Drug Research (CHDR),~€9.5M,10.3,,2022,therapeutics-antivirals,faster medicines/vaccines development facility,international/europe-national.md
+SCARDA (Japan),multilateral/nonprofit,Vaccine R&D Centers,"University of Tokyo (UTOPIA, Kawaoka)",¥7.7bn,7700.0,ceiling,2022,vaccines,flagship vaccine R&D centre (cap),international/asia-pacific.md
+SCARDA (Japan),multilateral/nonprofit,Vaccine R&D Centers,Osaka/Chiba/Nagasaki/Hokkaido (synergy bases),¥3.8bn each,3800.0,ceiling,2022,vaccines,synergy vaccine R&D bases (cap),international/asia-pacific.md
+MHLW (Japan),multilateral/nonprofit,COVID production subsidy,Shionogi,¥47.69bn,47690.0,,2021,vaccines,domestic COVID vaccine production,international/asia-pacific.md
+MHLW (Japan),multilateral/nonprofit,COVID production subsidy,Takeda,¥30.14bn,30140.0,,2021,vaccines,domestic Novavax production,international/asia-pacific.md
+MHLW (Japan),multilateral/nonprofit,COVID production subsidy,Daiichi Sankyo,¥29.57bn,29570.0,,2021,vaccines,mRNA production (+AMED R&D ¥12.265bn),international/asia-pacific.md
+MHLW (Japan),multilateral/nonprofit,COVID production subsidy,KM Biologics,¥28.5bn,28500.0,,2021,vaccines,inactivated vaccine production,international/asia-pacific.md
+Japan,multilateral/nonprofit,Antiviral purchase,Shionogi (Xocova),~¥100bn,100000.0,advance-purchase,2022,therapeutics-antivirals,~2m courses oral antiviral,international/asia-pacific.md
+CEPI,multilateral/nonprofit,Variant-proof vaccine,SK bioscience (Korea),~US$260m cumulative,260.0,,2020-2021,vaccines,SKYCovione + variant-proof vaccine,international/asia-pacific.md
+KDCA (Korea),multilateral/nonprofit,mRNA project,EuBiologics-led consortium,part of KRW 505.2bn,505200.0,,2025,vaccines,domestic mRNA vaccine platform,international/asia-pacific.md
+ARPA-H,US HHS,mRNA manufacturing,IVI-Catholic Univ-Inventage-Enzynomics (Korea),~US$13m,13.0,,2024,vaccines,ultra-fast mRNA manufacturing,international/asia-pacific.md
+CEPI,multilateral/nonprofit,mRNA delivery platform,ACM Biolabs (Singapore),up to US$2.87m,2.87,,2025,vaccines,thermostable mRNA delivery,international/asia-pacific.md
+NMRC (Singapore),multilateral/nonprofit,Large Collaborative Grants 2024,5 projects (Colo-SCRIPT/TAAP-2/SYMPHONY/TARIPH/ADEPT),~SGD 95m,95.0,,2024,basic-research,collaborative biomedical research,international/asia-pacific.md
