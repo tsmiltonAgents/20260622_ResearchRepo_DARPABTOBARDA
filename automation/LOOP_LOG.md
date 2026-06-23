@@ -69,3 +69,11 @@ One entry per completed cycle of the autonomous research loop.
 - Cross-cut map: CDC (AMD, PGCoE, Traveler Genomic Surveillance with Ginkgo, NWSS wastewater — Verily/Biobot), Rockefeller (PPI, ~$20M genomics, GISAID $5.2M), Gates/Africa CDC (Africa PGI ~$100M), Wellcome/Sanger (COG-UK), WHO IPSN, Open Phil/SecureBio (NAO metagenomics).
 - Appended +6 programmes, +10 awards (now 383 / 709).
 - Notable corrections caught: Open Philanthropy does NOT fund Nextstrain (funds NAO/SecureBio); Global Fund is NOT a founding funder of Africa PGI; the Africa PGI $100M never resolves into a clean per-funder split (only Illumina's ~$20M in-kind firmly confirmed).
+
+## LOOP COMPLETE — 2026-06-23 ~07:30 BST
+- Ran **9 cycles** over ~5 hours (02:32 → 07:30 BST), one direction per cycle, each researched by web-enabled subagents, written to markdown, extracted to CSV, and committed/pushed.
+- **New files (9):** international/{uk, eu, canada-australia, europe-national, asia-pacific, gsouth, multilateral, gavi-globalfund}.md + themes/biosurveillance-funders.md, plus the automation/ machinery and the international/ registry.
+- **Database growth:** programmes 302 → 383; awards 645 → 709 (the loop added ~80 programmes and ~60 awards across non-US government, multilateral, and thematic funders).
+- **Coverage added:** UK, EU/HERA, Canada+Australia, Germany/France/Netherlands, Japan/Korea/Singapore, India/South Africa/Brazil, WHO/Pandemic Fund/Unitaid/DNDi/GARDP, Gavi/Global Fund, and a global genomic-biosurveillance cross-cut.
+- **Backlog #10–#15 not reached** (AMR funder map, vector/gene-drive, DNA-synthesis screening, top-recipient profiles, wastewater, policy/think-tank funders) — they remain `pending` for a future run.
+- Stopped at the 5-hour deadline without scheduling another cycle.

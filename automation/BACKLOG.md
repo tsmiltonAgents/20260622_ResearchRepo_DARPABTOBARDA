@@ -1,6 +1,6 @@
 # Research Backlog (autonomous loop)
 
-**Loop window:** 2026-06-23 02:32 BST → ~07:32 BST (5 hours). Status: 🟢 running.
+**Loop window:** 2026-06-23 02:32 BST → 07:30 BST (5 hours). Status: ✅ complete (9 cycles, stopped at deadline; items #10–15 remain pending).
 
 Priority queue — the loop takes the top `pending` item each cycle, and appends newly-discovered directions at the bottom.
 
