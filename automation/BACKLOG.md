@@ -13,7 +13,7 @@ Priority queue — the loop takes the top `pending` item each cycle, and appends
 | 5 | **Japan/Korea/Singapore** (AMED, SCARDA; KDCA; NMRC, DSO) | `international/asia-pacific.md` | ✅ done (Cycle 5) |
 | 6 | **India/South Africa/Brazil** (DBT, ICMR, THSTI; SAMRC, CERI; Fiocruz, FAPESP) | `international/gsouth.md` | ✅ done (Cycle 6) |
 | 7 | **Multilateral deep-dive** (WHO Hub/PRET/ACT-A; World Bank Pandemic Fund recipients; Unitaid, FIND, DNDi, GARDP) | `international/multilateral.md` | ✅ done (Cycle 7) |
-| 8 | **Gavi + Global Fund** programmatic/recipient deep-dive | `international/gavi-globalfund.md` | ⬜ pending |
+| 8 | **Gavi + Global Fund** programmatic/recipient deep-dive | `international/gavi-globalfund.md` | ✅ done (Cycle 8) |
 | 9 | **Thematic:** global genomic/metagenomic biosurveillance funders (cross-cut) | `themes/biosurveillance-funders.md` | ⬜ pending |
 | 10 | **Thematic:** AMR funders consolidated recipient map (CARB-X, GARDP, AMR Action Fund, Gr-ADI, REPAIR) | `themes/amr-funders.md` | ⬜ pending |
 | 11 | **Thematic:** vector control / gene-drive funders (Target Malaria, Open Phil, Gates, OFR) | `themes/vector-genedrive-funders.md` | ⬜ pending |

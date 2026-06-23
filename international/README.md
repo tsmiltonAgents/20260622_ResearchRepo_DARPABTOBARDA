@@ -11,6 +11,6 @@ Non-US government and multilateral funders of pandemic preparedness, infectious-
 | Japan / Korea / Singapore | [asia-pacific.md](asia-pacific.md) | ✅ |
 | India / South Africa / Brazil | [gsouth.md](gsouth.md) | ✅ |
 | Multilateral (WHO, Pandemic Fund, Unitaid, …) | [multilateral.md](multilateral.md) | ✅ |
-| Gavi + Global Fund | [gavi-globalfund.md](gavi-globalfund.md) | ⬜ |
+| Gavi + Global Fund | [gavi-globalfund.md](gavi-globalfund.md) | ✅ |
 
 Status: ⬜ pending · 🟡 in progress · ✅ done

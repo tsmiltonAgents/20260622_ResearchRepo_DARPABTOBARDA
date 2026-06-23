@@ -369,3 +369,10 @@ Unitaid,multilateral/nonprofit,Therapeutics/diagnostics market-shaping,,therapeu
 FIND,multilateral/nonprofit,Diagnostics product-development partnership,Foundation for Innovative New Diagnostics,diagnostics,YES,2003-,Active,international/multilateral.md
 DNDi,multilateral/nonprofit,ANTICOV + neglected-disease R&D,Drugs for Neglected Diseases initiative,therapeutics-antivirals,YES,2003-,Active,international/multilateral.md
 GARDP,multilateral/nonprofit,Antibiotic R&D for AMR,Global Antibiotic Research & Development Partnership,AMR,PARTIAL,2016-,Active,international/multilateral.md
+Gavi,multilateral/nonprofit,Vaccine co-financing / replenishment,Gavi the Vaccine Alliance,vaccines,YES,2000-,Active,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,COVAX (vaccines pillar / AMC),COVID-19 Vaccines Global Access,vaccines,YES,2020-2023,Complete,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,African Vaccine Manufacturing Accelerator,AVMA,MCM-manufacturing,YES,2024-,Active,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,Day Zero Financing Facility / First Response Fund,DZF,vaccines,YES,2024-,Active,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,HIV/TB/malaria + RSSH grants,The Global Fund,therapeutics-antivirals,PARTIAL,2002-,Active,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,C19RM (COVID-19 Response Mechanism),COVID-19 Response Mechanism,diagnostics,YES,2020-2023,Complete,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,PPR objective (Strategy 2023-2028),Pandemic Preparedness and Response,biosurveillance-detection,YES,2023-2028,Active,international/gavi-globalfund.md

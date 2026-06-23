@@ -689,3 +689,12 @@ GARDP,multilateral/nonprofit,AMR R&D,GARDP (10-funder pledge),>€60M,64.8,,2024
 Unitaid,multilateral/nonprofit,ACT-A therapeutics,DNDi ANTICOV,part of ACT-A therapeutics,,,2021,therapeutics-antivirals,adaptive COVID treatment trial in Africa,international/multilateral.md
 Germany BMBF/KfW,multilateral/nonprofit,ANTICOV,DNDi (13+ African countries),undisclosed,,,2021,therapeutics-antivirals,largest mild/moderate COVID treatment trial in Africa,international/multilateral.md
 Korea,multilateral/nonprofit,PPR contribution,Unitaid,US$15M,15.0,,2022,therapeutics-antivirals,pandemic preparedness/response,international/multilateral.md
+Gavi,multilateral/nonprofit,Gavi 5.0 replenishment,Gavi (donor replenishment),US$8.8bn,8800.0,pledge,2020,vaccines,2021-2025 immunisation,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,Gavi 6.0 replenishment,Gavi (donor replenishment),>US$9bn,9000.0,pledge,2025,vaccines,2026-2030 immunisation,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,COVAX AMC,92 lower-income economies (~2bn doses),>US$12bn,12000.0,,2020-2023,vaccines,free COVID doses for low-income countries,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,AVMA,Biovac/Aspen/Institut Pasteur de Dakar (pipeline),up to US$1.2bn,1200.0,ceiling,2024,MCM-manufacturing,African vaccine manufacturing pull payments,international/gavi-globalfund.md
+Gavi,multilateral/nonprofit,First Response Fund,Mpox vaccine surge purchase,up to US$500M,500.0,ceiling,2024,vaccines,rapid outbreak vaccine access,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,C19RM,100+ recipient countries,>US$5bn,5000.0,,2020-2023,diagnostics,COVID tests/oxygen/PPE/health systems,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,C19RM diagnostics,SD Biosensor / Abbott (antigen tests),>US$1bn,1000.0,,2020-2022,diagnostics,rapid antigen tests procurement,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,C19RM oxygen,Medical oxygen (PSA plants),US$617M,617.0,,2020-2022,MCM-manufacturing,medical oxygen support,international/gavi-globalfund.md
+Global Fund,multilateral/nonprofit,7th Replenishment,Global Fund (donor replenishment),US$15.7bn,15700.0,pledge,2022,therapeutics-antivirals,2023-2025 HIV/TB/malaria,international/gavi-globalfund.md

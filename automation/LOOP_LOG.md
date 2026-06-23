@@ -57,3 +57,10 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +11 programmes, +9 awards (now 370 / 690).
 - Notable: the Pandemic Fund is the post-COVID multilateral PPR-financing vehicle (~$885M-$1.4bn cumulative) but per-country amounts aren't disclosed; the WHO Pandemic Agreement was adopted May 2025 with PABS still under negotiation.
 - Committed/pushed. Next: Cycle 8 (Gavi + Global Fund deep-dive).
+
+## Cycle 8 — 2026-06-23 ~06:53 BST — Gavi + Global Fund → `international/gavi-globalfund.md`
+- Gavi: replenishments (5.0 $8.8bn, 6.0 >$9bn), COVAX AMC (>$12bn, 92 economies, ~2bn doses), AVMA (up to $1.2bn African manufacturing), Day Zero/First Response Fund.
+- Global Fund: C19RM (>$5bn — $1bn diagnostics, $617M oxygen, $767M PPE), PPR objective, 7th/8th replenishments.
+- Appended +7 programmes, +9 awards (now 377 / 699).
+- Notable: both 2025 replenishments fell ~20-37% short of target — a concrete signal of the post-COVID funding pullback; AVMA is a novel "pull" payment model ($0.30-0.50/dose) to onshore African vaccine manufacturing.
+- Committed/pushed. All 8 international/multilateral regions done. Next: Cycle 9 (thematic — global biosurveillance funders).
