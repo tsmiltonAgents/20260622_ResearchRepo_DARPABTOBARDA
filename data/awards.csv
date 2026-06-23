@@ -708,3 +708,13 @@ Illumina,corporate,Africa PGI,Africa CDC,~$20M in-kind,20.0,,2020,biosurveillanc
 WHO/MPP,multilateral/nonprofit,IPSN catalytic fund,10 LMIC projects (round 1),~$2M,2.0,,2024,biosurveillance-detection,genomic surveillance in LMICs,themes/biosurveillance-funders.md
 Open Philanthropy,foundation/philanthropy,Nucleic Acid Observatory,SecureBio,~$9.4M,9.4,,2021-2024,biosurveillance-detection,metagenomic early detection of novel pathogens,themes/biosurveillance-funders.md
 Rockefeller Foundation,foundation/philanthropy,GISAID support,GISAID,$5.2M,5.2,,2021,biosurveillance-detection,viral genome data platform,themes/biosurveillance-funders.md
+CARB-X,multilateral/nonprofit,Funding partners,CARB-X (BARDA+Wellcome anchor),~$480M+ committed,480.0,,2016-2026,AMR,antibacterial accelerator ($361M/92 projects 2016-21),themes/amr-funders.md
+CARB-X,multilateral/nonprofit,Product award,Venatorx / Forge / Entasis (examples),$3.8-8.8M each,8.8,,2017,AMR,early-stage antibacterial development,themes/amr-funders.md
+GARDP,multilateral/nonprofit,2024 replenishment,GARDP (10-funder pledge),>€60.8M,65.7,,2024,AMR,antibiotic R&D + access,themes/amr-funders.md
+GARDP,multilateral/nonprofit,Product,Innoviva/Entasis (zoliflodacin/NUZOLVENCE),undisclosed,,,2025,AMR,single-dose oral gonorrhea antibiotic (FDA approved Dec 2025),themes/amr-funders.md
+AMR Action Fund,multilateral/nonprofit,VC investment,Venatorx Pharmaceuticals,undisclosed,,,2022,AMR,cefepime-taniborbactam Phase III,themes/amr-funders.md
+AMR Action Fund,multilateral/nonprofit,VC investment,BioVersys,undisclosed,,,2023,AMR,Acinetobacter antibiotic (IPO 2025),themes/amr-funders.md
+Novo Nordisk Foundation,multilateral/nonprofit,REPAIR Impact Fund,12 anti-infective companies,$165M fund,165.0,,2018,AMR,discovery-to-Phase1 anti-infectives,themes/amr-funders.md
+Gates/Wellcome/NNF,multilateral/nonprofit,Gr-ADI,18 projects / 17 countries,$60M,60.0,,2026,AMR,Gram-negative antibiotic discovery,themes/amr-funders.md
+UK DHSC,US gov agency,NHS subscription,Shionogi (cefiderocol) + Pfizer (ceftazidime-avibactam),up to £20M/yr each,25.4,subscription,2022,AMR,delinked subscription payment,themes/amr-funders.md
+Wellcome Trust,foundation/philanthropy,Drug-Resistant Infections programme,AMR R&D (CARB-X/GARDP/SEDRIC),>£300M,381.0,,2004-,AMR,AMR R&D + surveillance,themes/amr-funders.md

@@ -382,3 +382,10 @@ CDC,US HHS,National Wastewater Surveillance System,NWSS,biosurveillance-detectio
 Gates/Africa CDC,multilateral/nonprofit,Africa Pathogen Genomics Initiative,Africa PGI,biosurveillance-detection,YES,2020-,Active,themes/biosurveillance-funders.md
 WHO,multilateral/nonprofit,International Pathogen Surveillance Network,IPSN,biosurveillance-detection,YES,2023-,Active,themes/biosurveillance-funders.md
 WHO,multilateral/nonprofit,Global Genomic Surveillance Strategy 2022-2032,,biosurveillance-detection,YES,2022-2032,Active,themes/biosurveillance-funders.md
+CARB-X,multilateral/nonprofit,"Antibacterial accelerator (push, early-stage)",Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator,AMR,PARTIAL,2016-,Active,themes/amr-funders.md
+GARDP,multilateral/nonprofit,Late-stage antibiotic development + access,Global Antibiotic R&D Partnership,AMR,PARTIAL,2016-,Active,themes/amr-funders.md
+AMR Action Fund,multilateral/nonprofit,Pull-oriented VC fund for late-stage antibiotics,,AMR,PARTIAL,2020-,Active,themes/amr-funders.md
+UK DHSC,US gov agency,NHS/NICE antibiotic subscription (Netflix model),,AMR,PARTIAL,2022-,Active,themes/amr-funders.md
+US Congress,US HHS,PASTEUR Act (proposed subscription model),,AMR,PARTIAL,2020-,Active,themes/amr-funders.md
+IHI/EU,multilateral/nonprofit,AMR Accelerator (+ legacy ND4BB),,AMR,PARTIAL,2019-,Active,themes/amr-funders.md
+Global AMR R&D Hub,multilateral/nonprofit,G20 AMR R&D investment tracker,,AMR,PARTIAL,2018-,Active,themes/amr-funders.md

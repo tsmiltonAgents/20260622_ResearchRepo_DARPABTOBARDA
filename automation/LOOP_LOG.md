@@ -80,3 +80,9 @@ One entry per completed cycle of the autonomous research loop.
 
 ## LOOP RESUMED (Window 2) — 2026-06-23 ~14:28 BST
 - User requested another 5-hour run. Deadline ~19:28 BST. Resuming at backlog #10; added directions #16–#24 (One Health, diagnostics, China, Gulf/MENA, Nordics/Swiss, antiviral discovery, vaccine platforms, clinical-trial networks, data/AI).
+
+## Cycle 10 — 2026-06-23 ~14:33 BST — Thematic: AMR funders → `themes/amr-funders.md`
+- Mapped CARB-X, GARDP, AMR Action Fund, NNF REPAIR + Gr-ADI, US (BARDA/NIAID/PASTEUR Act), UK (GAMRIF/NHS subscription/Fleming Fund), Wellcome DRI, EU/IHI AMR Accelerator.
+- Appended +7 programmes, +10 awards (now 390 / 719).
+- Notable: zoliflodacin/NUZOLVENCE got FDA approval (Dec 2025) — a GARDP/Innoviva push-funded success; the UK is winding down the Fleming Fund (July 2025); the PASTEUR Act subscription model still never reached a floor vote.
+- Committed/pushed. Next: Cycle 11 (vector control / gene-drive funders).
