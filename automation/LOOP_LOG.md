@@ -77,3 +77,6 @@ One entry per completed cycle of the autonomous research loop.
 - **Coverage added:** UK, EU/HERA, Canada+Australia, Germany/France/Netherlands, Japan/Korea/Singapore, India/South Africa/Brazil, WHO/Pandemic Fund/Unitaid/DNDi/GARDP, Gavi/Global Fund, and a global genomic-biosurveillance cross-cut.
 - **Backlog #10–#15 not reached** (AMR funder map, vector/gene-drive, DNA-synthesis screening, top-recipient profiles, wastewater, policy/think-tank funders) — they remain `pending` for a future run.
 - Stopped at the 5-hour deadline without scheduling another cycle.
+
+## LOOP RESUMED (Window 2) — 2026-06-23 ~14:28 BST
+- User requested another 5-hour run. Deadline ~19:28 BST. Resuming at backlog #10; added directions #16–#24 (One Health, diagnostics, China, Gulf/MENA, Nordics/Swiss, antiviral discovery, vaccine platforms, clinical-trial networks, data/AI).

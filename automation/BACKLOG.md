@@ -1,6 +1,7 @@
 # Research Backlog (autonomous loop)
 
-**Loop window:** 2026-06-23 02:32 BST → 07:30 BST (5 hours). Status: ✅ complete (9 cycles, stopped at deadline; items #10–15 remain pending).
+**Loop window 1:** 2026-06-23 02:32 → 07:30 BST — ✅ complete (Cycles 1–9).
+**Loop window 2:** 2026-06-23 14:28 → ~19:28 BST (5 hours). Status: 🟢 running (resumes at #10).
 
 Priority queue — the loop takes the top `pending` item each cycle, and appends newly-discovered directions at the bottom.
 
@@ -23,3 +24,12 @@ Priority queue — the loop takes the top `pending` item each cycle, and appends
 | 15 | **Thematic:** biosecurity think-tank / policy funding map | `themes/policy-thinktank-funders.md` | ⬜ pending |
 
 Status legend: ⬜ pending · 🟡 in progress · ✅ done · ❎ skipped
+| 16 | **Thematic:** veterinary / zoonotic / One Health funders (FAO, WOAH, CGIAR/ILRI, Wellcome) | `themes/onehealth-funders.md` | ⬜ pending |
+| 17 | **Thematic:** diagnostics funders deep-dive (FIND, MedAccess, Rockefeller, RADx cross-ref) | `themes/diagnostics-funders.md` | ⬜ pending |
+| 18 | **China** funders (NSFC, CAMS, China CDC, state vaccine support) | `international/china.md` | ⬜ pending |
+| 19 | **Gulf / Middle East** funders (Saudi PIF/Hevolution, UAE/Mohamed bin Zayed, Qatar) | `international/gulf-mena.md` | ⬜ pending |
+| 20 | **Nordics + Switzerland** funders (Norway/RCN as CEPI host, Sweden, Denmark non-NNF, Swiss) | `international/nordic-swiss.md` | ⬜ pending |
+| 21 | **Thematic:** antiviral drug-discovery funders cross-cut (READDI, AViDD, Gates, Wellcome, NNF PAD) | `themes/antiviral-funders.md` | ⬜ pending |
+| 22 | **Thematic:** mRNA / vaccine-platform technology funders cross-cut | `themes/vaccine-platform-funders.md` | ⬜ pending |
+| 23 | **Thematic:** outbreak clinical-trial network funders (ISARIC, WHO Solidarity, REMAP-CAP) | `themes/clinical-trial-network-funders.md` | ⬜ pending |
+| 24 | **Thematic:** data / AI-for-epidemics funders cross-cut | `themes/data-ai-epidemic-funders.md` | ⬜ pending |
