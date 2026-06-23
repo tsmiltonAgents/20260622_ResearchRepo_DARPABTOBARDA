@@ -4,7 +4,7 @@ Non-US government and multilateral funders of pandemic preparedness, infectious-
 
 | Region/Bloc | File | Status |
 |---|---|---|
-| United Kingdom | [uk.md](uk.md) | 🟡 |
+| United Kingdom | [uk.md](uk.md) | ✅ |
 | European Union | [eu.md](eu.md) | ⬜ |
 | Canada + Australia | [canada-australia.md](canada-australia.md) | ⬜ |
 | Germany / France / Netherlands | [europe-national.md](europe-national.md) | ⬜ |

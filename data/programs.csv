@@ -301,3 +301,13 @@ ARPA-H,US HHS,BREATHE,BREATHE = Building Resilient Environments for Air and Tota
 CDC/EPA,US HHS,Clean Air in Buildings Challenge & ESSER,ESSER = Elementary and Secondary School Emergency Relief,PPE-air-UV,YES,2022,active,air-ppe-uv-glycols.md
 EPA,US gov agency,Air-sanitizer pathway & Grignard Pure (glycol),FIFRA = Federal Insecticide Fungicide and Rodenticide Act,PPE-air-UV,YES,2021,active,air-ppe-uv-glycols.md
 NIH,US HHS,Germicidal UV (UVGI) air disinfection,UVGI = Ultraviolet Germicidal Irradiation,PPE-air-UV,YES,2006-2025,active,air-ppe-uv-glycols.md
+UKRI/MRC,US gov agency,Infections & Immunity portfolio,Medical Research Council,basic-research,PARTIAL,ongoing,Active,international/uk.md
+UKRI/BBSRC,US gov agency,Underpinning bioscience (pathogen/animal/vaccine),Biotechnology and Biological Sciences Research Council,basic-research,PARTIAL,ongoing,Active,international/uk.md
+NIHR,US gov agency,Health Protection Research Units,,biosurveillance-detection,YES,2025-2030,Active,international/uk.md
+DHSC,US gov agency,UK Vaccine Network,,vaccines,YES,2016-2022,Complete,international/uk.md
+UKHSA,US gov agency,UK Health Security Agency (Porton Down/Colindale/VDEC),,biosurveillance-detection,YES,2021-,Active,international/uk.md
+UKHSA,US gov agency,100 Days Mission (UK secretariat),,vaccines,YES,2021-,Active,international/uk.md
+UK Vaccine Taskforce,US gov agency,Vaccine Taskforce (COVID procurement/manufacturing),,vaccines,YES,2020-2021,Complete,international/uk.md
+DHSC,US gov agency,Vaccines Manufacturing and Innovation Centre,VMIC,MCM-manufacturing,YES,2018-2022,Complete,international/uk.md
+Dstl,US DoD,Biological/chemical defence research,Defence Science and Technology Laboratory,biosecurity-policy,PARTIAL,2001-,Active,international/uk.md
+ARIA,US gov agency,Sustained Viral Resilience,Advanced Research and Invention Agency,therapeutics-antivirals,YES,2025-,Active,international/uk.md

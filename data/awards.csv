@@ -605,3 +605,18 @@ NIH,US HHS,Far-UVC (NIOSH),David Welch / Columbia,~$658K/yr,0.658,obligated,2022
 NIH,US HHS,STTR,Eden Park Illumination (Brenner co-PI),undisclosed,,undisclosed,,PPE-air-UV,NIAID STTR AI125006 far-UVC,air-ppe-uv-glycols.md
 NIH,US HHS,Upper-room UVGI (NIOSH),Edward Nardell / Brigham,~$3.46M cumulative,3.46,obligated,2006-2015,PPE-air-UV,Upper-room UVGI for TB (R01 OH009050),air-ppe-uv-glycols.md
 Rockefeller Foundation,foundation/philanthropy,Outdoor/climate air,Clean Air Task Force,$250K,0.25,obligated,,other,Outdoor/climate air,air-ppe-uv-glycols.md
+DHSC,US gov agency,UK Vaccine Network,Epidemic-disease vaccine projects (Ebola/Zika/MERS/CCHF),£134m,170.2,,2016-2022,vaccines,UK Vaccine Network programme,international/uk.md
+DHSC,US gov agency,CEPI contribution,CEPI,£160m,203.2,pledge,2022,vaccines,5-yr pledge with FCDO,international/uk.md
+UK Vaccine Taskforce,US gov agency,VTF,AstraZeneca/Oxford,100m doses (price redacted),,advance-purchase,2020,vaccines,ChAdOx1 procurement,international/uk.md
+UK Vaccine Taskforce,US gov agency,VTF,Valneva,up to €1.4bn / ~$1.65bn,1650.0,advance-purchase,2020,vaccines,up to 100m doses; terminated Sept 2021,international/uk.md
+UK Vaccine Taskforce,US gov agency,VTF,Pfizer/BioNTech,~100m doses (price redacted),,advance-purchase,2020,vaccines,procurement,international/uk.md
+UK Vaccine Taskforce,US gov agency,VTF,Novavax,60m doses (price redacted),,advance-purchase,2020,vaccines,Teesside manufacturing,international/uk.md
+UK Vaccine Taskforce,US gov agency,VTF,Moderna,>£1bn,1270.0,ceiling,2020-,vaccines,doses + UK R&D/manufacturing partnership,international/uk.md
+DHSC,US gov agency,VMIC,Vaccines Manufacturing and Innovation Centre,£197m,250.2,obligated,2018-2020,MCM-manufacturing,founding £66m + £131m COVID acceleration,international/uk.md
+DHSC,US gov agency,VTF early manufacturing,University of Oxford,£65.5m,83.2,obligated,2020,vaccines,ChAdOx1 early manufacturing (+£2.6m research +£20m trials),international/uk.md
+DHSC,US gov agency,saRNA vaccine,Imperial College London,£41m,52.1,obligated,2020,vaccines,self-amplifying RNA COVID vaccine,international/uk.md
+UKRI/MRC,US gov agency,GenOMICC,University of Edinburgh,£4.9m,6.223,obligated,2020,basic-research,COVID host-genomics,international/uk.md
+Research England,US gov agency,Human challenge facility,Liverpool School of Tropical Medicine,£4.7m,5.969,obligated,2021,therapeutics-antivirals,12-bed human-challenge facility,international/uk.md
+NIHR,US gov agency,HPRU 2025-2030,University of Oxford,£11m,14.0,obligated,2025,biosurveillance-detection,HCAI/AMR Health Protection Research Unit,international/uk.md
+NIHR,US gov agency,HPRU 2025-2030,13 university-hosted units,£80m,101.6,ceiling,2025,biosurveillance-detection,HPRU round (UCL/Leicester/Liverpool/Bristol/LSHTM etc; most ~£5.5m),international/uk.md
+UKRI/MRC,US gov agency,MRC Unit The Gambia,LSHTM,£20m,25.4,obligated,ongoing,basic-research,overseas infectious-disease unit core funding,international/uk.md
