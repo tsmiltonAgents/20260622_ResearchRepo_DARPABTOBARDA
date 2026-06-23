@@ -193,11 +193,11 @@ NSF,US gov agency,RAPID & COVID-19,Rapid Response Research,basic-research,YES,CO
 NSF,US gov agency,Convergence Accelerator,Convergence Accelerator,basic-research,NO,launched 2019; no pandemic track (negative finding),ongoing,agencies/nsf.md
 NSF,US gov agency,Expeditions in Computing / AI - Global Pervasive Computational Epidemiology,Global Pervasive Computational Epidemiology,biosurveillance-detection,YES,~$10M/5yr (2020),ongoing,agencies/nsf.md
 NSF,US gov agency,Biology Integration Institutes (BII) - VERENA,Viral Emergence Research Initiative,basic-research,YES,VERENA ~$9.5M (Aug 2022),ongoing,agencies/nsf.md
-IARPA,US DoD,Fun GCAT,Functional Genomic and Computational Assessment of Threats,synbio,YES,BAA 2016; contracts by early 2018; three phases,concluded,agencies/intel.md
-IARPA,US DoD,FELIX,Finding Engineering-Linked Indicators,synbio,YES,completed Oct 17 2022,concluded,agencies/intel.md
-IARPA,US DoD,MIST,Molecular Information Storage,synbio,NO,~$48M committed; awards Jan 2020,concluded,agencies/intel.md
-In-Q-Tel,US gov agency,B.Next - biodefense unit,B.Next,biosecurity-policy,YES,est 2015,ongoing,agencies/intel.md
-In-Q-Tel,US gov agency,Biotech thesis / strategic investment,,synbio,PARTIAL,founded 1999; equity investments (amounts undisclosed),ongoing,agencies/intel.md
+IARPA,US IC,Fun GCAT,Functional Genomic and Computational Assessment of Threats,synbio,YES,BAA 2016; contracts by early 2018; three phases,concluded,agencies/intel.md
+IARPA,US IC,FELIX,Finding Engineering-Linked Indicators,synbio,YES,completed Oct 17 2022,concluded,agencies/intel.md
+IARPA,US IC,MIST,Molecular Information Storage,synbio,NO,~$48M committed; awards Jan 2020,concluded,agencies/intel.md
+In-Q-Tel,US IC,B.Next - biodefense unit,B.Next,biosecurity-policy,YES,est 2015,ongoing,agencies/intel.md
+In-Q-Tel,US IC,Biotech thesis / strategic investment,,synbio,PARTIAL,founded 1999; equity investments (amounts undisclosed),ongoing,agencies/intel.md
 ARPA-H,US HHS,APECx,Antigens Predicted for Broad Viral Efficacy through Computational Experimentation,vaccines,YES,launched Oct 2023; awards Sept 2024; up to $204M,ongoing,agencies/arpa-h.md
 ARPA-H,US HHS,CUREIT,mRNA platform (cancer + emerging infectious disease),vaccines,YES,announced Aug 2023; up to $24M,ongoing,agencies/arpa-h.md
 ARPA-H,US HHS,DARTS,Defeating Antibiotic Resistance through Transformative Solutions,AMR,YES,announced Sept 2023; up to $104M,ongoing,agencies/arpa-h.md
@@ -280,9 +280,9 @@ HHMI,foundation/philanthropy,Investigator Program,HHMI = Howard Hughes Medical I
 HHMI,foundation/philanthropy,Emerging Pathogens Initiative,,basic-research,YES,2023,active,other-funders.md
 Bloomberg,foundation/philanthropy,Data for Health,,biosurveillance-detection,PARTIAL,2015-,active,other-funders.md
 Bloomberg,foundation/philanthropy,Public-health programme (tobacco/NCDs/road safety),NCDs = Non-Communicable Diseases,other,NO,2005-,active,other-funders.md
-Trinity Challenge,foundation/philanthropy,Challenge 1 - Protect against future health emergencies,TTC = The Trinity Challenge,biosurveillance-detection,YES,2021,active,other-funders.md
-Trinity Challenge,foundation/philanthropy,Challenge 2 - Antimicrobial Resistance,AMR = Antimicrobial Resistance,AMR,YES,2024,active,other-funders.md
-Trinity Challenge,foundation/philanthropy,Challenge 3 - Community Access to Effective Antibiotics,,AMR,YES,2025,active,other-funders.md
+Trinity Challenge,multilateral/nonprofit,Challenge 1 - Protect against future health emergencies,TTC = The Trinity Challenge,biosurveillance-detection,YES,2021,active,other-funders.md
+Trinity Challenge,multilateral/nonprofit,Challenge 2 - Antimicrobial Resistance,AMR = Antimicrobial Resistance,AMR,YES,2024,active,other-funders.md
+Trinity Challenge,multilateral/nonprofit,Challenge 3 - Community Access to Effective Antibiotics,,AMR,YES,2025,active,other-funders.md
 Schmidt,foundation/philanthropy,AI2050,,basic-research,NO,ongoing,active,other-funders.md
 Schmidt,foundation/philanthropy,Eric and Wendy Schmidt Center at the Broad Institute,,basic-research,PARTIAL,2021,active,other-funders.md
 Flu Lab,foundation/philanthropy,Universal flu vaccine partnership (with Gates),,vaccines,YES,2019,active,other-funders.md
@@ -295,9 +295,9 @@ Open Philanthropy,foundation/philanthropy,Physical transmission suppression (far
 Blueprint Biosecurity,foundation/philanthropy,AIR (Airborne Infection Resilience) - far-UVC / next-gen PPE / glycol-vapor,AIR = Airborne Infection Resilience,PPE-air-UV,YES,2023-,active,air-ppe-uv-glycols.md
 Blueprint Biosecurity,foundation/philanthropy,GlycolISER,,PPE-air-UV,YES,2026-2027,active,air-ppe-uv-glycols.md
 Balvi,foundation/philanthropy,Clean / indoor air & germicidal-UV portfolio,,PPE-air-UV,YES,2022-,active,air-ppe-uv-glycols.md
-NIOSH/NPPTL,foundation/philanthropy,National Personal Protective Technology Laboratory (NPPTL) & Project BREATHE,NPPTL = National Personal Protective Technology Laboratory,PPE-air-UV,YES,1995-,active,air-ppe-uv-glycols.md
-BARDA/ASPR,foundation/philanthropy,Respiratory PPE / SNS / DPA Title III,"DPA = Defense Production Act; SNS = Strategic National Stockpile",PPE-air-UV,YES,2017-2022,active,air-ppe-uv-glycols.md
-ARPA-H,foundation/philanthropy,BREATHE,BREATHE = Building Resilient Environments for Air and Total HEalth,PPE-air-UV,YES,2024-,active,air-ppe-uv-glycols.md
-CDC/EPA,foundation/philanthropy,Clean Air in Buildings Challenge & ESSER,ESSER = Elementary and Secondary School Emergency Relief,PPE-air-UV,YES,2022,active,air-ppe-uv-glycols.md
-EPA,foundation/philanthropy,Air-sanitizer pathway & Grignard Pure (glycol),FIFRA = Federal Insecticide Fungicide and Rodenticide Act,PPE-air-UV,YES,2021,active,air-ppe-uv-glycols.md
-NIH,foundation/philanthropy,Germicidal UV (UVGI) air disinfection,UVGI = Ultraviolet Germicidal Irradiation,PPE-air-UV,YES,2006-2025,active,air-ppe-uv-glycols.md
+NIOSH/NPPTL,US HHS,National Personal Protective Technology Laboratory (NPPTL) & Project BREATHE,NPPTL = National Personal Protective Technology Laboratory,PPE-air-UV,YES,1995-,active,air-ppe-uv-glycols.md
+BARDA/ASPR,US HHS,Respiratory PPE / SNS / DPA Title III,DPA = Defense Production Act; SNS = Strategic National Stockpile,PPE-air-UV,YES,2017-2022,active,air-ppe-uv-glycols.md
+ARPA-H,US HHS,BREATHE,BREATHE = Building Resilient Environments for Air and Total HEalth,PPE-air-UV,YES,2024-,active,air-ppe-uv-glycols.md
+CDC/EPA,US HHS,Clean Air in Buildings Challenge & ESSER,ESSER = Elementary and Secondary School Emergency Relief,PPE-air-UV,YES,2022,active,air-ppe-uv-glycols.md
+EPA,US gov agency,Air-sanitizer pathway & Grignard Pure (glycol),FIFRA = Federal Insecticide Fungicide and Rodenticide Act,PPE-air-UV,YES,2021,active,air-ppe-uv-glycols.md
+NIH,US HHS,Germicidal UV (UVGI) air disinfection,UVGI = Ultraviolet Germicidal Irradiation,PPE-air-UV,YES,2006-2025,active,air-ppe-uv-glycols.md
