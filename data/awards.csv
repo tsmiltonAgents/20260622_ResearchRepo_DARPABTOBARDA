@@ -644,3 +644,15 @@ Australia,multilateral/nonprofit,Onshore vaccine mfg,CSL Seqirus,~AUD 1B,1000.0,
 Australia,multilateral/nonprofit,mRNA manufacturing,Moderna (Victoria),up to AUD 25M + AUD 12.3M,25.0,obligated,2021-2023,vaccines,Monash mRNA facility (Commonwealth + Victoria; rest confidential),international/canada-australia.md
 NHMRC (Australia),multilateral/nonprofit,Investigator Grants,Doherty Institute,>AUD 30.5M,30.5,,2023,basic-research,AMR/influenza/TB/malaria/COVID research,international/canada-australia.md
 MRFF (Australia),multilateral/nonprofit,Genomics Health Futures,AusPathoGen consortium,AUD 10M,10.0,,2022,biosurveillance-detection,pathogen genomics,international/canada-australia.md
+BMBF (Germany),multilateral/nonprofit,Sonderprogramm,BioNTech,€375M,405.0,,2020,vaccines,BNT162b2 (Comirnaty) clinical scale-up,international/europe-national.md
+BMBF (Germany),multilateral/nonprofit,Sonderprogramm,CureVac,up to €252M,272.2,,2020,vaccines,mRNA candidate development + capacity,international/europe-national.md
+BMBF (Germany),multilateral/nonprofit,Sonderprogramm,IDT Biologika,~€114M,123.1,,2020,vaccines,Phase I-III trials + fill-finish capacity,international/europe-national.md
+BMBF (Germany),multilateral/nonprofit,CEPI contribution,CEPI,~€520M,561.6,,2017-2025,vaccines,founding + additional CEPI tranches,international/europe-national.md
+BMZ/KfW (Germany),multilateral/nonprofit,Gavi,Gavi COVAX AMC,€400M,432.0,,2022,vaccines,COVAX advance market commitment,international/europe-national.md
+INSERM/ANRS-MIE (France),multilateral/nonprofit,Urgent COVID research,French academic projects,~€51M,55.1,,2021,therapeutics-antivirals,urgent COVID-19 research,international/europe-national.md
+ANR (France),multilateral/nonprofit,RA-COVID-19,234-279 research projects,~€32-36M,36.0,,2020,therapeutics-antivirals,rapid COVID research calls,international/europe-national.md
+Institut Pasteur (France),multilateral/nonprofit,CEPI consortium,"Institut Pasteur (+Themis, U Pittsburgh)",~US$4.9M,4.9,,2020,vaccines,measles-vectored COVID candidate,international/europe-national.md
+France 2030,multilateral/nonprofit,PEPR Biotherapies,ImCheck Therapeutics,€20.18M,21.8,,2021,therapeutics-antivirals,biotherapy (illustrative France 2030 award),international/europe-national.md
+ZonMw (Netherlands),multilateral/nonprofit,Pandemic Preparedness,NCOH (Netherlands Centre for One Health),€2.5M,2.7,,2022,biosurveillance-detection,pandemic-preparedness research,international/europe-national.md
+ZonMw (Netherlands),multilateral/nonprofit,Pandemic Preparedness,BePrepared consortium,€1.6M,1.728,,2023,biosecurity-policy,social-science pandemic research,international/europe-national.md
+Netherlands,multilateral/nonprofit,Infectious-disease facility,Centre for Human Drug Research (CHDR),~€9.5M,10.3,,2022,therapeutics-antivirals,faster medicines/vaccines development facility,international/europe-national.md

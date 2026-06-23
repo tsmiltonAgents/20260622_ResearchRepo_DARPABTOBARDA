@@ -25,3 +25,11 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +9 programmes, +12 awards (now 330 / 645).
 - Notable: two cautionary biomanufacturing cases — Canada's Medicago (SIF-funded, wound down 2023) and the failed CanSino/NRC China deal (CAD 44M, no doses). Both countries built sovereign mRNA capacity post-COVID.
 - Committed/pushed. Next: Cycle 4 (Germany/France/Netherlands).
+
+## Cycle 4 — 2026-06-23 ~04:13 BST — Germany / France / Netherlands → `international/europe-national.md`
+- Germany: BMBF COVID vaccine Sonderprogramm (€750M; BioNTech €375M, CureVac €252M, IDT €114M), RKI, DZIF, Gavi/CEPI (~€520M).
+- France: ANR (France 2030), INSERM/ANRS-MIE (€51M COVID), Institut Pasteur + CEPI, Innovation Santé 2030 (€7.5bn).
+- Netherlands: ZonMw Pandemic Preparedness, RIVM, Intravacc (State-owned 2021).
+- Appended +9 programmes, +12 awards (now 339 / 657).
+- Notable: Germany's €375M to BioNTech is the single clearest "government de-risked the COVID vaccine" line in the dataset; France was NOT a CEPI founding-government donor (corrected).
+- Committed/pushed. Next: Cycle 5 (Japan/Korea/Singapore).

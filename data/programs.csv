@@ -329,3 +329,12 @@ NHMRC (Australia),multilateral/nonprofit,APPRISE infectious-disease network,,bio
 MRFF (Australia),multilateral/nonprofit,Medical Research Future Fund Missions,Medical Research Future Fund,basic-research,PARTIAL,2024-2034,Active,international/canada-australia.md
 CSIRO (Australia),multilateral/nonprofit,Australian Centre for Disease Preparedness (BSL-4),ACDP,environmental-ag,YES,1985-,Active,international/canada-australia.md
 Australia,multilateral/nonprofit,Australian Centre for Disease Control,Australian CDC,biosurveillance-detection,YES,2024-2026,Active,international/canada-australia.md
+BMBF (Germany),multilateral/nonprofit,COVID-19 vaccine Sonderprogramm,Federal Ministry of Education and Research,vaccines,YES,2020-2021,Complete,international/europe-national.md
+RKI (Germany),multilateral/nonprofit,Robert Koch Institute (surveillance/genomics),Robert Koch Institute,biosurveillance-detection,YES,ongoing,Active,international/europe-national.md
+DZIF (Germany),multilateral/nonprofit,German Center for Infection Research,Deutsches Zentrum fuer Infektionsforschung,basic-research,YES,2012-,Active,international/europe-national.md
+ANR (France),multilateral/nonprofit,RA-COVID-19 rapid research calls,Agence Nationale de la Recherche,therapeutics-antivirals,YES,2020-2021,Complete,international/europe-national.md
+INSERM/ANRS-MIE (France),multilateral/nonprofit,Emerging infectious diseases agency,ANRS Maladies Infectieuses Emergentes,biosurveillance-detection,YES,2021-,Active,international/europe-national.md
+France 2030,multilateral/nonprofit,Innovation Sante 2030 (biotherapy/bioproduction; PREZODE),,MCM-manufacturing,PARTIAL,2021-,Active,international/europe-national.md
+ZonMw (Netherlands),multilateral/nonprofit,Pandemic Preparedness knowledge programme,,biosurveillance-detection,YES,2022-,Active,international/europe-national.md
+RIVM (Netherlands),multilateral/nonprofit,Infectious-disease control & preparedness,National Institute for Public Health,biosurveillance-detection,YES,ongoing,Active,international/europe-national.md
+Intravacc (Netherlands),multilateral/nonprofit,State-owned vaccine development institute,,vaccines,PARTIAL,2021-,Active,international/europe-national.md
