@@ -668,3 +668,15 @@ KDCA (Korea),multilateral/nonprofit,mRNA project,EuBiologics-led consortium,part
 ARPA-H,US HHS,mRNA manufacturing,IVI-Catholic Univ-Inventage-Enzynomics (Korea),~US$13m,13.0,,2024,vaccines,ultra-fast mRNA manufacturing,international/asia-pacific.md
 CEPI,multilateral/nonprofit,mRNA delivery platform,ACM Biolabs (Singapore),up to US$2.87m,2.87,,2025,vaccines,thermostable mRNA delivery,international/asia-pacific.md
 NMRC (Singapore),multilateral/nonprofit,Large Collaborative Grants 2024,5 projects (Colo-SCRIPT/TAAP-2/SYMPHONY/TARIPH/ADEPT),~SGD 95m,95.0,,2024,basic-research,collaborative biomedical research,international/asia-pacific.md
+DBT/BIRAC (India),multilateral/nonprofit,Mission COVID Suraksha,Cadila/Zydus (ZyCoV-D),₹40 crore,,,2021,vaccines,DNA vaccine R&D,international/gsouth.md
+DBT/BIRAC (India),multilateral/nonprofit,Mission COVID Suraksha,Bharat Biotech (Covaxin),₹23.73 crore,,,2021,vaccines,vaccine R&D (+~₹65cr mfg augmentation),international/gsouth.md
+DBT/BIRAC (India),multilateral/nonprofit,Mission COVID Suraksha,Gennova (GEMCOVAC mRNA),₹22.50 crore,,,2021,vaccines,mRNA vaccine R&D,international/gsouth.md
+DBT/BIRAC (India),multilateral/nonprofit,Mission COVID Suraksha,Biological E (Corbevax),₹22.50 crore,,,2021,vaccines,protein-subunit vaccine R&D,international/gsouth.md
+Govt of India,multilateral/nonprofit,Procurement advance,Biological E (Corbevax),"₹1,500 crore",,advance-purchase,2021,vaccines,30 crore doses procurement advance (not R&D),international/gsouth.md
+WHO/MPP,multilateral/nonprofit,mRNA hub,Afrigen Biologics,€39M,42.1,,2021,MCM-manufacturing,mRNA technology transfer hub,international/gsouth.md
+CEPI,multilateral/nonprofit,mRNA hub,Afrigen Biologics,US$6.2M,6.2,,2025,vaccines,TB/HIV/Rift Valley Fever mRNA,international/gsouth.md
+DSI (South Africa),multilateral/nonprofit,Genomic surveillance,KRISP (UKZN),R25m,25.0,,2020,biosurveillance-detection,SARS-CoV-2 genomics,international/gsouth.md
+Rockefeller Foundation,foundation/philanthropy,Genomic surveillance,CERI (Stellenbosch),US$4.5M,4.5,,2021,biosurveillance-detection,African pathogen genomics,international/gsouth.md
+Ministry of Health (Brazil),multilateral/nonprofit,Vaccine procurement/tech transfer,Fiocruz/Bio-Manguinhos,R$1.9bn,1900.0,,2020,vaccines,100M AstraZeneca doses + tech transfer,international/gsouth.md
+Ministry of Health (Brazil),multilateral/nonprofit,Vaccine procurement,Butantan Institute,R$2.6bn,2600.0,advance-purchase,2021,vaccines,100M CoronaVac doses,international/gsouth.md
+BNDES (Brazil),multilateral/nonprofit,Vaccine manufacturing,Butantan Institute,R$386M,386.0,,2024,MCM-manufacturing,flu-vaccine plant,international/gsouth.md

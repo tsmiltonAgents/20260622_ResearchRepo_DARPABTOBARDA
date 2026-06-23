@@ -41,3 +41,11 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +10 programmes, +12 awards (now 349 / 669).
 - Notable: Japan's SCARDA (2022) and Korea's KRW 505bn mRNA project are explicit post-COVID "build a sovereign 100-day vaccine capability" bets, mirroring BARDA/HERA/ARIA.
 - Committed/pushed. Next: Cycle 6 (India/South Africa/Brazil).
+
+## Cycle 6 — 2026-06-23 ~05:24 BST — India / South Africa / Brazil → `international/gsouth.md`
+- India: DBT/BIRAC (Mission COVID Suraksha ₹900cr; Ind-CEPI ₹312.92cr; National Biopharma Mission), ICMR/Covaxin.
+- South Africa: SAMRC/SHIP, NGS-SA, CERI/KRISP (Tulio de Oliveira), the WHO mRNA hub at Afrigen (€39M MPP), Biovac.
+- Brazil: Fiocruz/Bio-Manguinhos, Butantan, Ministry of Health (R$1.9bn AZ, R$2.6bn CoronaVac, ~R$38bn cumulative), FAPESP/FINEP.
+- Appended +10 programmes, +12 awards (now 359 / 681).
+- Notable: Global South funders concentrate on sovereign MANUFACTURING + tech transfer (Afrigen mRNA hub, Fiocruz/Butantan) and genomic surveillance (NGS-SA detected Beta & Omicron) — distinct from rich-country discovery/procurement emphasis.
+- Committed/pushed. Six international regions done. Next: Cycle 7 (Multilateral deep-dive).
