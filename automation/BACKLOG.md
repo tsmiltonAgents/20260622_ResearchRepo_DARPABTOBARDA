@@ -7,7 +7,7 @@ Priority queue — the loop takes the top `pending` item each cycle, and appends
 | # | Direction | Output file | Status |
 |---|---|---|---|
 | 1 | **UK government** funders (UKRI, MRC, BBSRC, NIHR, DHSC/UKHSA, Dstl, ARIA) | `international/uk.md` | ✅ done (Cycle 1) |
-| 2 | **EU** (Horizon Europe, **HERA** = EU's BARDA, IHI/IMI, ERC, EDF) | `international/eu.md` | ⬜ pending |
+| 2 | **EU** (Horizon Europe, **HERA** = EU's BARDA, IHI/IMI, ERC, EDF) | `international/eu.md` | ✅ done (Cycle 2) |
 | 3 | **Canada + Australia** (CIHR, PHAC, IDRC; NHMRC, MRFF, CSIRO) | `international/canada-australia.md` | ⬜ pending |
 | 4 | **Germany/France/Netherlands** (BMBF/DFG; ANR/Institut Pasteur; ZonMw) | `international/europe-national.md` | ⬜ pending |
 | 5 | **Japan/Korea/Singapore** (AMED, SCARDA; KDCA; NMRC, DSO) | `international/asia-pacific.md` | ⬜ pending |

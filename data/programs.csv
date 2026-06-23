@@ -311,3 +311,12 @@ UK Vaccine Taskforce,US gov agency,Vaccine Taskforce (COVID procurement/manufact
 DHSC,US gov agency,Vaccines Manufacturing and Innovation Centre,VMIC,MCM-manufacturing,YES,2018-2022,Complete,international/uk.md
 Dstl,US DoD,Biological/chemical defence research,Defence Science and Technology Laboratory,biosecurity-policy,PARTIAL,2001-,Active,international/uk.md
 ARIA,US gov agency,Sustained Viral Resilience,Advanced Research and Invention Agency,therapeutics-antivirals,YES,2025-,Active,international/uk.md
+HERA,multilateral/nonprofit,MCM development/procurement/stockpiling,European Health Emergency Preparedness and Response Authority,MCM-manufacturing,YES,2021-,Active,international/eu.md
+HERA,multilateral/nonprofit,EU FAB reserved vaccine-manufacturing capacity,,MCM-manufacturing,YES,2022-,Active,international/eu.md
+HERA,multilateral/nonprofit,HERA Invest venture-loan facility,,therapeutics-antivirals,YES,2024-,Active,international/eu.md
+Horizon Europe,multilateral/nonprofit,Cluster 1 Health + Pandemic Preparedness Partnership,,basic-research,YES,2021-2027,Active,international/eu.md
+Horizon 2020,multilateral/nonprofit,COVID-19 emergency research calls,,therapeutics-antivirals,YES,2020-2021,Complete,international/eu.md
+IHI/IMI,multilateral/nonprofit,Innovative Health Initiative (public-private),Innovative Health Initiative,vaccines,PARTIAL,2021-2027,Active,international/eu.md
+IMI,multilateral/nonprofit,Ebola+ programme,,vaccines,YES,2014-,Complete,international/eu.md
+EIB,multilateral/nonprofit,Vaccine/therapeutic financing,European Investment Bank,MCM-manufacturing,YES,2020-,Active,international/eu.md
+European Defence Fund,US gov agency,CBRN detection/decontamination strand,,biosecurity-policy,PARTIAL,2021-2027,Active,international/eu.md

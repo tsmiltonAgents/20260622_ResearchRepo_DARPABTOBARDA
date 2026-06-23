@@ -12,3 +12,9 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +10 programmes, +15 awards to `data/` (now 312 / 621).
 - Notable: ARIA's **Sustained Viral Resilience** (2025) is the UK's forward-looking broad-spectrum antiviral bet; VTF total effort up to £11.7bn (NAO); VMIC sold to US Catalent (2022) before completion.
 - Committed/pushed. Next: Cycle 2 (EU / HERA).
+
+## Cycle 2 — 2026-06-23 ~03:12 BST — EU / HERA → `international/eu.md`
+- Covered HERA (EU FAB, joint procurement, HERA Invest), Horizon Europe Cluster 1 + Pandemic Preparedness Partnership, Horizon 2020 COVID calls, IHI/IMI (Ebola+; CARE), EIB (BioNTech/CureVac), EDF CBRN, EU→CEPI/ACT-A.
+- Appended +9 programmes, +12 awards (now 321 / 633).
+- Notable: the EU joint-procurement portfolio reached **up to 4.6bn doses / ~€71bn** (ECA estimate), Pfizer/BioNTech alone up to 2.4bn doses; HERA Invest venture-debt (Fabentech, Leyden Labs) is a newer BARDA-style instrument.
+- Committed/pushed. Next: Cycle 3 (Canada + Australia).

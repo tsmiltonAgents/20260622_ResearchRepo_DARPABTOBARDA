@@ -620,3 +620,15 @@ Research England,US gov agency,Human challenge facility,Liverpool School of Trop
 NIHR,US gov agency,HPRU 2025-2030,University of Oxford,£11m,14.0,obligated,2025,biosurveillance-detection,HCAI/AMR Health Protection Research Unit,international/uk.md
 NIHR,US gov agency,HPRU 2025-2030,13 university-hosted units,£80m,101.6,ceiling,2025,biosurveillance-detection,HPRU round (UCL/Leicester/Liverpool/Bristol/LSHTM etc; most ~£5.5m),international/uk.md
 UKRI/MRC,US gov agency,MRC Unit The Gambia,LSHTM,£20m,25.4,obligated,ongoing,basic-research,overseas infectious-disease unit core funding,international/uk.md
+EIB,multilateral/nonprofit,COVID vaccine financing,BioNTech,up to €100m,108.0,,2020,vaccines,debt financing for BNT162 development/scale-up,international/eu.md
+EIB,multilateral/nonprofit,COVID vaccine financing,CureVac,€75m,81.0,,2020,vaccines,vaccine development + Tübingen manufacturing,international/eu.md
+HERA,multilateral/nonprofit,HERA Invest,Leyden Labs,€20m,21.6,,2025,therapeutics-antivirals,broadly protective antiviral nasal sprays/antibodies,international/eu.md
+HERA,multilateral/nonprofit,HERA Invest,Fabentech,€20m,21.6,,2024,therapeutics-antivirals,first HERA Invest agreement; broad-spectrum biothreat therapeutics,international/eu.md
+HERA,multilateral/nonprofit,EU joint procurement,Pfizer/BioNTech,up to 2.4bn doses (part of ~€71bn portfolio),76680.0,advance-purchase,2020-2021,vaccines,largest EU vaccine deal,international/eu.md
+HERA,multilateral/nonprofit,EU joint procurement,Valneva,up to 60m doses,60.0,advance-purchase,2021,vaccines,inactivated VLA2001 APA,international/eu.md
+HERA,multilateral/nonprofit,EU joint procurement,CSL Seqirus,"up to 665,000 + 40m option doses",40.0,advance-purchase,2024,vaccines,pre-pandemic H5 avian influenza vaccine,international/eu.md
+HERA,multilateral/nonprofit,EU joint procurement,Bavarian Nordic,"up to 8m doses; 175,420 to Africa CDC",8.0,advance-purchase,2024,vaccines,MVA-BN mpox/smallpox,international/eu.md
+IMI,multilateral/nonprofit,COVID fast-track,CARE (Corona Accelerated R&D in Europe),part of €117m / 8 projects,126.4,,2020,therapeutics-antivirals,largest IMI COVID therapeutics consortium,international/eu.md
+IMI,multilateral/nonprofit,Ebola+,EBOVAC/EBODAC/EBOMAN consortia,part of ~€280m+ programme,302.4,,2014-,vaccines,Janssen Ad26/MVA Ebola regimen development/deployment,international/eu.md
+Horizon 2020,multilateral/nonprofit,COVID emergency call 2,24 research projects,€128m,138.2,,2020,therapeutics-antivirals,2nd emergency COVID research call,international/eu.md
+European Commission,multilateral/nonprofit,EU+CEPI,CEPI,~€35m,37.8,,2019-,vaccines,EU co-funding of CEPI vaccine candidates incl. Rift Valley fever,international/eu.md
