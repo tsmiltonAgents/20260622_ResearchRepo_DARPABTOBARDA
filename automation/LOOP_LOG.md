@@ -64,3 +64,8 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +7 programmes, +9 awards (now 377 / 699).
 - Notable: both 2025 replenishments fell ~20-37% short of target — a concrete signal of the post-COVID funding pullback; AVMA is a novel "pull" payment model ($0.30-0.50/dose) to onshore African vaccine manufacturing.
 - Committed/pushed. All 8 international/multilateral regions done. Next: Cycle 9 (thematic — global biosurveillance funders).
+
+## Cycle 9 — 2026-06-23 ~07:28 BST — Thematic: global biosurveillance funders → `themes/biosurveillance-funders.md`
+- Cross-cut map: CDC (AMD, PGCoE, Traveler Genomic Surveillance with Ginkgo, NWSS wastewater — Verily/Biobot), Rockefeller (PPI, ~$20M genomics, GISAID $5.2M), Gates/Africa CDC (Africa PGI ~$100M), Wellcome/Sanger (COG-UK), WHO IPSN, Open Phil/SecureBio (NAO metagenomics).
+- Appended +6 programmes, +10 awards (now 383 / 709).
+- Notable corrections caught: Open Philanthropy does NOT fund Nextstrain (funds NAO/SecureBio); Global Fund is NOT a founding funder of Africa PGI; the Africa PGI $100M never resolves into a clean per-funder split (only Illumina's ~$20M in-kind firmly confirmed).
