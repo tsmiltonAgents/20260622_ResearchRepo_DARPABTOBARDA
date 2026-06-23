@@ -49,3 +49,11 @@ One entry per completed cycle of the autonomous research loop.
 - Appended +10 programmes, +12 awards (now 359 / 681).
 - Notable: Global South funders concentrate on sovereign MANUFACTURING + tech transfer (Afrigen mRNA hub, Fiocruz/Butantan) and genomic surveillance (NGS-SA detected Beta & Omicron) — distinct from rich-country discovery/procurement emphasis.
 - Committed/pushed. Six international regions done. Next: Cycle 7 (Multilateral deep-dive).
+
+## Cycle 7 — 2026-06-23 ~06:22 BST — Multilateral deep-dive → `international/multilateral.md`
+- WHO: ACT-Accelerator (~$24.2bn), Pandemic Hub (Berlin), PRET, R&D Blueprint, BioHub, Pandemic Agreement/PABS (2025), mRNA programme.
+- The Pandemic Fund (World Bank): Round 1 $338M/37 countries, Round 2 $418M + $128.89M mpox; WHO/FAO/UNICEF as implementing entities.
+- Unitaid, FIND, DNDi (ANTICOV), GARDP (€60M AMR pledge).
+- Appended +11 programmes, +9 awards (now 370 / 690).
+- Notable: the Pandemic Fund is the post-COVID multilateral PPR-financing vehicle (~$885M-$1.4bn cumulative) but per-country amounts aren't disclosed; the WHO Pandemic Agreement was adopted May 2025 with PABS still under negotiation.
+- Committed/pushed. Next: Cycle 8 (Gavi + Global Fund deep-dive).
